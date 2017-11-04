@@ -6,72 +6,72 @@
         "edited": null,
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:18:41.696000+00:00",
+        "author": "Mami",
         "authorcolor": "#f1c40f",
-        "server": "Sabrina's Head",
-        "author": "Mami"
+        "server": "Sabrina's Head"
       },
       {
         "content": "Yes, Mami is much better without any pants on",
         "edited": null,
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:10.844000+00:00",
+        "author": "Sabrina",
         "authorcolor": "#206694",
-        "server": "Sabrina's Head",
-        "author": "Sabrina"
+        "server": "Sabrina's Head"
       },
       {
         "content": "But mami, what about Sabrina's pants",
         "edited": null,
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:11.553000+00:00",
+        "author": "Firnagzen",
         "authorcolor": "#992D22",
-        "server": "Sabrina's Head",
-        "author": "Firnagzen"
+        "server": "Sabrina's Head"
       },
       {
         "content": "Mami loves Asunaro style? :p",
         "edited": null,
         "author_id": "266869055464407061",
         "timestamp": "2017-04-19T00:19:12.755000+00:00",
+        "author": "pantherasapiens",
         "authorcolor": "#e91e63",
-        "server": "Sabrina's Head",
-        "author": "pantherasapiens"
+        "server": "Sabrina's Head"
       },
       {
         "content": "erm",
         "edited": null,
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:15.119000+00:00",
+        "author": "Sabrina",
         "authorcolor": "#206694",
-        "server": "Sabrina's Head",
-        "author": "Sabrina"
+        "server": "Sabrina's Head"
       },
       {
         "content": "uh",
         "edited": null,
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:17.811000+00:00",
+        "author": "Sabrina",
         "authorcolor": "#206694",
-        "server": "Sabrina's Head",
-        "author": "Sabrina"
+        "server": "Sabrina's Head"
       },
       {
         "content": "...",
         "edited": null,
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:18.529000+00:00",
+        "author": "Firnagzen",
         "authorcolor": "#992D22",
-        "server": "Sabrina's Head",
-        "author": "Firnagzen"
+        "server": "Sabrina's Head"
       },
       {
         "content": "*phrasing*",
         "edited": null,
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:19.912000+00:00",
+        "author": "Sabrina",
         "authorcolor": "#206694",
-        "server": "Sabrina's Head",
-        "author": "Sabrina"
+        "server": "Sabrina's Head"
       },
       {
         "timestamp": "2017-04-19T00:19:20.173000+00:00",
@@ -86,45 +86,45 @@
         "edited": null,
         "author_id": "189628169299427328",
         "timestamp": "2017-04-19T00:19:20.437000+00:00",
+        "author": ".",
         "authorcolor": "#06393e",
-        "server": "Sabrina's Head",
-        "author": "."
+        "server": "Sabrina's Head"
       },
       {
         "content": "Well then",
         "edited": null,
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:20.585000+00:00",
+        "author": "Firnagzen",
         "authorcolor": "#992D22",
-        "server": "Sabrina's Head",
-        "author": "Firnagzen"
+        "server": "Sabrina's Head"
       },
       {
         "content": "Sabrina's pants are also evil... I forbid the pants",
         "edited": null,
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:19:32.230000+00:00",
+        "author": "Mami",
         "authorcolor": "#f1c40f",
-        "server": "Sabrina's Head",
-        "author": "Mami"
+        "server": "Sabrina's Head"
       },
       {
         "content": "_flees the channel_",
         "edited": null,
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:33.186000+00:00",
+        "author": "Sabrina",
         "authorcolor": "#206694",
-        "server": "Sabrina's Head",
-        "author": "Sabrina"
+        "server": "Sabrina's Head"
       },
       {
         "content": "_chases @Sabrina_",
         "edited": null,
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:19:42.677000+00:00",
+        "author": "Mami",
         "authorcolor": "#f1c40f",
-        "server": "Sabrina's Head",
-        "author": "Mami"
+        "server": "Sabrina's Head"
       }
     ],
     "quoted": "2017-06-19T00:04:20.077957",
@@ -135,19 +135,19 @@
       {
         "content": "but no seriously if Sasa was a furry she'd probably be way more relaxed.",
         "edited": null,
-        "channel": "pmas",
         "author_id": "157027749314166784",
         "timestamp": "2017-03-24T00:02:49.235000+00:00",
+        "author": "AuraTwilight",
         "authorcolor": "#E67E22",
-        "server": "Sabrina's Head",
-        "author": "AuraTwilight"
+        "channel": "pmas",
+        "server": "Sabrina's Head"
       }
     ],
     "quoted": "2017-06-19T13:30:30.352699",
     "id": "326353047703781376"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Readthrough three: Oh hunh, Sayaka never brings the music player to Kyouske... and Sabrina comments on it.\n[suspicions intensify]",
@@ -3830,12 +3830,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-21T02:57:16.722565",
-    "server": "Sabrina's Head",
     "id": "326918464725975051"
   },
   {
-    "channel": "bot-abuse",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "/lewd",
@@ -3846,12 +3846,12 @@
         "author": "BestBuddy"
       }
     ],
+    "channel": "bot-abuse",
     "quoted": "2017-06-21T07:30:25.189540",
-    "server": "Sabrina's Head",
     "id": "326987202817163265"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "/add /lewd",
@@ -3966,12 +3966,12 @@
         "author": "BestBuddy"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-21T14:43:25.858217",
-    "server": "Sabrina's Head",
     "id": "327096175247360021"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Gettng up early is great!",
@@ -3998,12 +3998,12 @@
         "author": "mistfist"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-21T23:37:03.227134",
-    "server": "Sabrina's Head",
     "id": "327230464903610378"
   },
   {
-    "channel": "pmmm",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "https://i.imgur.com/R0H1u8z.gif",
@@ -4150,12 +4150,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmmm",
     "quoted": "2017-06-22T01:27:25.876634",
-    "server": "Sabrina's Head",
     "id": "327258243648978944"
   },
   {
-    "channel": "pmmm",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "<:mumi:298218291652984833> \u2764 <:happybrina:298612974875049985>",
@@ -4166,12 +4166,12 @@
         "author": "mistfist"
       }
     ],
+    "channel": "pmmm",
     "quoted": "2017-06-22T03:14:06.262142",
-    "server": "Sabrina's Head",
     "id": "327285088683294720"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "So, does that mean QuoteBot is Combat Ready? <:pacman:290632177727700993>",
@@ -4222,12 +4222,12 @@
         "author": "Gangsta McBrinaizzle"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T03:17:39.683142",
-    "server": "Sabrina's Head",
     "id": "327285982477025285"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "we're in the AU where Kirika is sane but her family's fucking bonkers",
@@ -4238,12 +4238,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T03:23:38.776844",
-    "server": "Sabrina's Head",
     "id": "327287489746173953"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Best you're drunk",
@@ -4342,12 +4342,12 @@
         "author": "Kaizuki"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T03:24:30.011304",
-    "server": "Sabrina's Head",
     "id": "327287704817500160"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Just takes the closest relating quote drin a movie",
@@ -4406,12 +4406,12 @@
         "author": "BestBuddy"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T03:31:28.452522",
-    "server": "Sabrina's Head",
     "id": "327289459869483014"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "[I wish I was universally attractive]",
@@ -5230,12 +5230,12 @@
         "author": "BestBuddy"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T04:13:32.180631",
-    "server": "Sabrina's Head",
     "id": "327300044141101056"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "keep your lewd out of the family tayta",
@@ -5254,12 +5254,12 @@
         "author": "Tayta Malikai"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-22T13:51:25.467505",
-    "server": "Sabrina's Head",
     "id": "327445475454353409"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "The antimagic just cancels out her magic antimagic magic, so the antimagic magic will be able to magically affect the magic of the magic antimagic magic only if her antimagic magic is more powerful than the antimagic magic she magicked.",
@@ -5270,12 +5270,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-22T17:50:58.763788",
-    "server": "Sabrina's Head",
     "id": "327505760022167572"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Just...wow.",
@@ -5318,12 +5318,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-22T18:09:28.431571",
-    "server": "Sabrina's Head",
     "id": "327510414092926976"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "My long term goals include breaking the Masquerade and giving immortality to everyone",
@@ -6294,12 +6294,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-23T02:55:53.431159",
-    "server": "Sabrina's Head",
     "id": "327642892061638656"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "wait is this your server?",
@@ -6438,12 +6438,12 @@
         "author": "Mami"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-23T02:58:32.024994",
-    "server": "Sabrina's Head",
     "id": "327643558045548545"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "@Mami is good with pastries.",
@@ -7238,12 +7238,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-24T03:40:33.281827",
-    "server": "Sabrina's Head",
     "id": "328016521068544020"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "@onmarble what did happen to yo' shiypost license yo?",
@@ -7974,12 +7974,12 @@
         "author": "onmarble"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-24T18:26:31.238725",
-    "server": "Sabrina's Head",
     "id": "328239481427591169"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "Riz is basically Not!Homura.",
@@ -9310,12 +9310,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-25T05:35:28.898990",
-    "server": "Sabrina's Head",
     "id": "328407830329688065"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "I prefer either turn-based or active-pause games.",
@@ -9398,12 +9398,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-25T07:43:46.343769",
-    "server": "Sabrina's Head",
     "id": "328440114734956558"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "content": "veB = ZA WARUDO.",
@@ -9414,12 +9414,12 @@
         "author": "veByast"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-25T07:51:14.762379",
-    "server": "Sabrina's Head",
     "id": "328441997029539872"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-28T02:06:48.641000+00:00",
@@ -9431,12 +9431,12 @@
         "author": "veByast"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-28T02:07:11.356540",
-    "server": "Sabrina's Head",
     "id": "329442575146680322"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-27T22:45:17.920000+00:00",
@@ -9484,12 +9484,12 @@
         "author": "Mami"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-28T02:08:03.294532",
-    "server": "Sabrina's Head",
     "id": "329442794030628864"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-28T01:21:15.351000+00:00",
@@ -9528,12 +9528,12 @@
         "author": "onmarble"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-28T02:08:09.659961",
-    "server": "Sabrina's Head",
     "id": "329442803685785610"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-28T04:11:16.837000+00:00",
@@ -9581,12 +9581,12 @@
         "author": "Firnagzen"
       }
     ],
+    "channel": "general",
     "quoted": "2017-06-28T04:12:35.330768",
-    "server": "Sabrina's Head",
     "id": "329474132830060548"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-29T13:56:34.535000+00:00",
@@ -10507,12 +10507,12 @@
         "author": "onmarble"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-06-29T14:43:15.971470",
-    "server": "Sabrina's Head",
     "id": "329995237009391627"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-06-28T02:10:28.449000+00:00",
@@ -10524,12 +10524,12 @@
         "author": "onmarble"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-01T02:35:14.130298",
-    "server": "Sabrina's Head",
     "id": "330536797585145857"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-02T03:26:54.006000+00:00",
@@ -11423,12 +11423,12 @@
         "author": "onmarble"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-02T03:49:09.389024",
-    "server": "Sabrina's Head",
     "id": "330917788577169409"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-04T07:05:54.857000+00:00",
@@ -12364,12 +12364,12 @@
         "author": "Tyrant Hitomi"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-04T07:29:17.569535",
-    "server": "Sabrina's Head",
     "id": "331697963569119232"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-05T03:38:03.465000+00:00",
@@ -12381,12 +12381,12 @@
         "author": "GANGSTA OF REGEND"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-05T03:38:23.519099",
-    "server": "Sabrina's Head",
     "id": "332002240980320257"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-05T02:30:42.852000+00:00",
@@ -13307,12 +13307,12 @@
         "author": "Kaizuki"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-05T03:39:47.790499",
-    "server": "Sabrina's Head",
     "id": "332002596422418442"
   },
   {
-    "channel": "thearena",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-05T18:22:51.817000+00:00",
@@ -13927,12 +13927,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "thearena",
     "quoted": "2017-07-05T18:32:15.454344",
-    "server": "Sabrina's Head",
     "id": "332227191729422336"
   },
   {
-    "channel": "hugs",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-08T17:44:36.425000+00:00",
@@ -13944,12 +13944,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "hugs",
     "quoted": "2017-07-09T09:13:44.332850",
-    "server": "Sabrina's Head",
     "id": "333536187207909379"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-09T15:05:42.891000+00:00",
@@ -14285,12 +14285,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-09T15:32:26.925301",
-    "server": "Sabrina's Head",
     "id": "333631491646947338"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-12T00:57:22.876000+00:00",
@@ -14906,12 +14906,12 @@
         "author": "All Witches' Night"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-12T01:10:16.492029",
-    "server": "Sabrina's Head",
     "id": "334501682971017226"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-12T23:26:10.418000+00:00",
@@ -14995,12 +14995,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-12T23:28:08.513480",
-    "server": "Sabrina's Head",
     "id": "334838367151718420"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-13T15:00:49.983000+00:00",
@@ -15030,12 +15030,12 @@
         "author": "Firnagzen"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-13T15:08:58.539617",
-    "server": "Sabrina's Head",
     "id": "335075137265074186"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-14T02:27:43.813000+00:00",
@@ -15047,12 +15047,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-14T02:28:29.186431",
-    "server": "Sabrina's Head",
     "id": "335246141673308171"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-14T02:26:58.990000+00:00",
@@ -15100,12 +15100,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-14T02:29:03.942706",
-    "server": "Sabrina's Head",
     "id": "335246286955610114"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-15T01:07:23.662000+00:00",
@@ -15297,12 +15297,12 @@
         "author": "WhatDoYouDoWithADrunkenYuma"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-15T01:11:32.697362",
-    "server": "Sabrina's Head",
     "id": "335589166496874500"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-15T01:42:45.424000+00:00",
@@ -15458,12 +15458,12 @@
         "author": "Redshirt Army"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-15T12:15:06.160688",
-    "server": "Sabrina's Head",
     "id": "335756155026669568"
   },
   {
-    "channel": "toboldlygo",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-17T19:35:25.785000+00:00",
@@ -15628,12 +15628,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "toboldlygo",
     "quoted": "2017-07-18T01:26:51.169824",
-    "server": "Sabrina's Head",
     "id": "336680182112976898"
   },
   {
-    "channel": "toboldlygo",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-18T01:25:45.615000+00:00",
@@ -15762,12 +15762,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "toboldlygo",
     "quoted": "2017-07-18T01:30:55.814378",
-    "server": "Sabrina's Head",
     "id": "336681208459165696"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-29T02:41:20.851000+00:00",
@@ -15797,12 +15797,12 @@
         "author": "Tyrant Hitomi"
       }
     ],
+    "channel": "general",
     "quoted": "2017-07-29T02:42:57.263073",
-    "server": "Sabrina's Head",
     "id": "340685600850182146"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-07-30T03:38:34.145000+00:00",
@@ -16616,12 +16616,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-07-30T04:33:51.698196",
-    "server": "Sabrina's Head",
     "id": "341075899334000640"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-01T03:25:07.233000+00:00",
@@ -16741,12 +16741,12 @@
         "author": "veByast"
       }
     ],
+    "channel": "general",
     "quoted": "2017-08-01T03:28:49.356839",
-    "server": "Sabrina's Head",
     "id": "341784306156437504"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-01T03:46:18.141000+00:00",
@@ -17073,12 +17073,12 @@
         "author": "Phoenixian"
       }
     ],
+    "channel": "general",
     "quoted": "2017-08-01T03:50:44.933844",
-    "server": "Sabrina's Head",
     "id": "341789825495728128"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-01T17:25:11.674000+00:00",
@@ -17090,12 +17090,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "general",
     "quoted": "2017-08-01T17:46:29.635809",
-    "server": "Sabrina's Head",
     "id": "342000145505714177"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-01T22:24:12.802000+00:00",
@@ -17296,12 +17296,12 @@
         "author": "veByast"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-08-01T22:55:04.979731",
-    "server": "Sabrina's Head",
     "id": "342077806005714955"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-05-12T15:49:46.139000+00:00",
@@ -18222,12 +18222,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-08-09T20:47:18.188248",
-    "server": "Sabrina's Head",
     "id": "344944752095133696"
   },
   {
-    "channel": "pmas-fanworks",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-22T23:26:51.542000+00:00",
@@ -18284,12 +18284,12 @@
         "author": "Firnagzen"
       }
     ],
+    "channel": "pmas-fanworks",
     "quoted": "2017-08-22T23:28:49.562290",
-    "server": "Sabrina's Head",
     "id": "349696442170081282"
   },
   {
-    "channel": "pmmm",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-08-30T00:18:23.731000+00:00",
@@ -18392,12 +18392,12 @@
         "author": "Sabrina"
       }
     ],
+    "channel": "pmmm",
     "quoted": "2017-08-30T00:49:52.133312",
-    "server": "Sabrina's Head",
     "id": "352253553492099072"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-09-03T02:44:04.667000+00:00",
@@ -18886,12 +18886,12 @@
         "author": "GreatSageEqualToHeaven"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-09-03T04:04:21.101062",
-    "server": "Sabrina's Head",
     "id": "353752047742484480"
   },
   {
-    "channel": "general",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-09-09T12:04:14.376000+00:00",
@@ -19047,12 +19047,12 @@
         "author": "Kriemhild"
       }
     ],
+    "channel": "general",
     "quoted": "2017-09-09T12:09:03.771807",
-    "server": "Sabrina's Head",
     "id": "356048356453384193"
   },
   {
-    "channel": "pmas-fanworks",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-09-10T05:19:12.451000+00:00",
@@ -21080,12 +21080,12 @@
         "author": "Sayaka"
       }
     ],
+    "channel": "pmas-fanworks",
     "quoted": "2017-09-10T17:28:30.022739",
-    "server": "Sabrina's Head",
     "id": "356491131896201228"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-09-13T12:13:23.758000+00:00",
@@ -22006,12 +22006,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-09-13T16:53:19.698010",
-    "server": "Sabrina's Head",
     "id": "357569445440258070"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-09-14T03:02:25.816000+00:00",
@@ -22221,12 +22221,12 @@
         "author": "Phoenixian"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-09-14T03:29:14.539919",
-    "server": "Sabrina's Head",
     "id": "357729478719569920"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-10-06T20:27:57.066000+00:00",
@@ -22247,12 +22247,12 @@
         "author": "AuraTwilight"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-10-06T20:38:33.757120",
-    "server": "Sabrina's Head",
     "id": "365961048731287552"
   },
   {
-    "channel": "pmas",
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-10-11T21:03:29.111000+00:00",
@@ -22624,11 +22624,12 @@
         "author": "veByast"
       }
     ],
+    "channel": "pmas",
     "quoted": "2017-10-12T05:03:03.733021",
-    "server": "Sabrina's Head",
     "id": "367899949532184576"
   },
   {
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-10-30T00:01:03.412000+00:00",
@@ -23034,10 +23035,10 @@
     ],
     "channel": "pmas",
     "quoted": "2017-10-30T00:39:24.497390",
-    "server": "Sabrina's Head",
     "id": "374356579782492161"
   },
   {
+    "server": "Sabrina's Head",
     "lines": [
       {
         "timestamp": "2017-10-29T23:44:39.380000+00:00",
@@ -23637,8 +23638,645 @@
     ],
     "channel": "pmas",
     "quoted": "2017-10-30T00:46:10.184340",
-    "server": "Sabrina's Head",
     "id": "374358282283778048"
+  },
+  {
+    "server": "Sabrina's Head",
+    "lines": [
+      {
+        "timestamp": "2017-11-03T04:20:05.648000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "Say you have one power, (A). You have two choices: In the set or not in the set. N(A) = 2. Now we add another power, to get (A, B). You have one option for the new power being included and one option for the new power being not included, N(B) = 2. Each of these options has for the *rest* of the powers all of the previous step's combinations, which is N(A). So two options for (A), times two for (B), to give N(A, B) = 4. Now we add another power C. You have two options for C, on or off, and each of them has all the possibilities for (A, B): N(A, B, C) = N(C) * N(A, B) = 2 * 4 = 8. Repeat: N(ABCD) = N(D) * N(ABC). Each of these provides two options, and you're multiplying them together; by induction we see that N(m elements) = 2 * 2 * ... * 2 with m twos in total, or 2^m.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:20:41.124000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "ah right",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:20:43.520000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "Hilariously enough in this context, the set of all subsets (that is, the collection of all possible choices of the elements of a set) is called the \"power set\".",
+        "authorcolor": "#9B59B6",
+        "edited": "2017-11-03T04:20:50.563000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:20:57.075000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "<https://en.wikipedia.org/wiki/Power_set>",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:02.604000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "for two elements one of the choices is \"no powers at all\"",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:09+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "Get out with your *math*.  Can't you tell we're shitposting here?\n:V",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:10.944000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "In other words, it's binary, and your number of powers are your numbers of bits in possible memory states. :V",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:19.024000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "so (null, A, AB, B)",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:20.040000+00:00",
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "attachments": [],
+        "content": "thanks",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:20.234000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "HOY SHADDAP",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:25.717000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "@Phoenixian Precisely, but we have some non-computer-scientists here and I wanted a more fundamental definition. \ud83d\ude1b",
+        "authorcolor": "#9B59B6",
+        "edited": "2017-11-03T04:21:33.212000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:21:31.338000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "MATH **IS** SHITPOSTING",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:35.164000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "But can you run Doom on Sayaka's powersets?",
+        "authorcolor": null,
+        "edited": "2017-11-03T04:21:39.148000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:21:42.086000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "...Betcha I can.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:43.801000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "She has ribbons.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:49.229000+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "SHITPOSTING **IS** MATH",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:51.440000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "That's enough for rod logic.",
+        "authorcolor": "#9B59B6",
+        "edited": "2017-11-03T04:21:54.459000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:21:52.602000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "... yes.",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:53.245000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "she'd need a lot more of them",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:55.911000+00:00",
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "attachments": [],
+        "content": "We need to get Sayaka to play E1M1",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:21:56.040000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "yeeeeeeeeees.",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:01.080000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "but yeah theoretically",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:11.150000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "No no, can you run Doom, on her *accessing* her powersets?",
+        "authorcolor": null,
+        "edited": "2017-11-03T04:22:18.181000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:22:16.018000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "I don't think she copied hackerguca's powerset, that'd be *really* funny.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:16.927000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "yes exactly",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:19.288000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "wtf",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:31.390000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "Depends on what you mean by \"accessing\".",
+        "authorcolor": "#9B59B6",
+        "edited": "2017-11-03T04:22:34.287000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:22:35.073000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "clarify",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:22:54.004000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "You know, she either has a power active, or in a gem, which can be thought of as a bit in memory.",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:04.494000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "oh my god",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:08.584000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "no",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:16.264000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "it doesnt work like that you need a processor",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:17.573000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "Sooooo, by using which bits are active and which aren't as a memory state...",
+        "authorcolor": null,
+        "edited": "2017-11-03T04:23:24.443000+00:00"
+      },
+      {
+        "timestamp": "2017-11-03T04:23:19.302000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "she'd need to semi-manually actually perform the math to create the updates",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:33.636000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "you'd have to have saya work as a processor",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:38.698000+00:00",
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "attachments": [],
+        "content": "So what, like that xkcd of a dude in a desert with all the rocks?",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:44.405000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "yes",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:45.629000+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "https://xkcd.com/505/",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:46.558000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "She could store information, but no computation.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:48.297000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "exactly like that",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:58.872000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "potentially she could offload that to hackergucas power or whatever but that's cheating",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:23:59.158000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "IF she was willing to do that she could simulate playing doom",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:24:02.367000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "but like",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:24:06.569000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "You need some kind of decisionmaking to do computation. It can be *simple* decisionmaking, but it still needs to have decisions.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:24:56.892000+00:00",
+        "author": "Kaizuki",
+        "author_id": "167825879144202241",
+        "attachments": [],
+        "content": "^^",
+        "authorcolor": "#E74C3C",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:25:34.433000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "So what I'm getting is that, theoretically, *Sabrina* could (because she's brain-damaged enough to try) but Sayaka probably wouldn't.",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:25:56.598000+00:00",
+        "author": "Phoenixian",
+        "author_id": "304193780968325121",
+        "attachments": [],
+        "content": "(If Sabrina had Sayaka's powerset)",
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:26:22.098000+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "Sayaka could probably find a super-math-ing power somewhere.",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:26:23.075000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "(like, *really* simple - you can get turing completeness with the sole operation of \"subtract and go to somewhere else if the result is <= 0\".)",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:26:25.476000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "ultimately once she has enough powers the answer to \"can Sayaka ...?\" becomes yes regardless of what's in the blank",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:26:44.441000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "so it's always going to be up to what Sayaka is *willing* to do",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:27:37.840000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "if Sayaka can't combine powers as freely as she'd like to then she can just copy a power that lets her do that",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:27:41.326000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "So basically any time we see Sayaka space out",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:27:46.147000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "She's playing DOOM in her mind.",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:28:00.185000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "if Sayaka's power copying has soul based limitations then there's a power that interacts with that",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:28:37.316000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "if Sayaka's copying power isn't potent enough to copy people with greater potential fully *there's a power for that*",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:13.041000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "...we need to get Sayaka and Umika to work together, so Sayaka can _store her powers as smartphone apps_",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:15.157000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "*if Sayaka needs more time and training to get her powers working optimally*... **theres a power for that**",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:20.095000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "Remember, Umika can do that",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:35.719000+00:00",
+        "author": "Gangsta Brina...SHIN!!",
+        "author_id": "280102990461927425",
+        "attachments": [],
+        "content": "Sayaka OP pls  nerf?",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:35.997000+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "suddenly croix",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:39.642000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "By the simulation hypothesis, a small but nonzero portion of the measure of my existence is instantiated on a Sayaka's ribbon-computer.",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:47.826000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "Yessssss",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:49.312000+00:00",
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "attachments": [],
+        "content": "pfft",
+        "authorcolor": "#206694",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:29:59.618000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": "That explains why your hair is so pretty - she's misplaced a bit somewhere",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:30:09.827000+00:00",
+        "author": "\uff0f\u4eba \u0361\u00b0\u203f\u203f \u0361\u00b0\u4eba\uff3c",
+        "author_id": "266869055464407061",
+        "attachments": [],
+        "content": ":D",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:30:16.989000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "\ud83d\ude1b",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:30:25.708000+00:00",
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "attachments": [],
+        "content": "anime *is* real (to a non-zero probabilistic extent)",
+        "authorcolor": "#E91E63",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:31:02.830000+00:00",
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "\\*nodnod\\*",
+        "authorcolor": "#9B59B6",
+        "edited": null
+      },
+      {
+        "timestamp": "2017-11-03T04:33:52.334000+00:00",
+        "author": "Subrosian_Smithy",
+        "author_id": "189297440388677632",
+        "attachments": [],
+        "content": "obviously anime is real\nMadokami speaks to me from within my heart every time I pray",
+        "authorcolor": null,
+        "edited": null
+      }
+    ],
+    "channel": "pmas",
+    "quoted": "2017-11-03T04:51:56.409438",
+    "id": "375869684051869696"
   },
   {
     "channel": "pmas",
@@ -24274,8 +24912,8 @@
         "edited": null
       }
     ],
-    "quoted": "2017-11-03T04:51:56.409438",
+    "quoted": "2017-11-04T11:41:38.210301",
     "server": "Sabrina's Head",
-    "id": "375869684051869696"
+    "id": "376335175442890753"
   }
 ]
