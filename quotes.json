@@ -4,76 +4,76 @@
     "id": "326150168183570433",
     "lines": [
       {
-        "authorcolor": "#f1c40f",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:18:41.696000+00:00",
+        "content": "pants are evil",
         "edited": null,
         "author": "Mami",
-        "content": "pants are evil",
         "author_id": "222505900001198081",
-        "server": "Sabrina's Head"
+        "authorcolor": "#f1c40f"
       },
       {
-        "authorcolor": "#206694",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:10.844000+00:00",
+        "content": "Yes, Mami is much better without any pants on",
         "edited": null,
         "author": "Sabrina",
-        "content": "Yes, Mami is much better without any pants on",
         "author_id": "252581296436412416",
-        "server": "Sabrina's Head"
+        "authorcolor": "#206694"
       },
       {
-        "authorcolor": "#992D22",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:11.553000+00:00",
+        "content": "But mami, what about Sabrina's pants",
         "edited": null,
         "author": "Firnagzen",
-        "content": "But mami, what about Sabrina's pants",
         "author_id": "178020704774520833",
-        "server": "Sabrina's Head"
+        "authorcolor": "#992D22"
       },
       {
-        "authorcolor": "#e91e63",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:12.755000+00:00",
+        "content": "Mami loves Asunaro style? :p",
         "edited": null,
         "author": "pantherasapiens",
-        "content": "Mami loves Asunaro style? :p",
         "author_id": "266869055464407061",
-        "server": "Sabrina's Head"
+        "authorcolor": "#e91e63"
       },
       {
-        "authorcolor": "#206694",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:15.119000+00:00",
-        "edited": null,
-        "author": "Sabrina",
         "content": "erm",
-        "author_id": "252581296436412416",
-        "server": "Sabrina's Head"
-      },
-      {
-        "authorcolor": "#206694",
-        "timestamp": "2017-04-19T00:19:17.811000+00:00",
         "edited": null,
         "author": "Sabrina",
-        "content": "uh",
         "author_id": "252581296436412416",
-        "server": "Sabrina's Head"
+        "authorcolor": "#206694"
       },
       {
-        "authorcolor": "#992D22",
+        "server": "Sabrina's Head",
+        "timestamp": "2017-04-19T00:19:17.811000+00:00",
+        "content": "uh",
+        "edited": null,
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:18.529000+00:00",
+        "content": "...",
         "edited": null,
         "author": "Firnagzen",
-        "content": "...",
         "author_id": "178020704774520833",
-        "server": "Sabrina's Head"
+        "authorcolor": "#992D22"
       },
       {
-        "authorcolor": "#206694",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:19.912000+00:00",
+        "content": "*phrasing*",
         "edited": null,
         "author": "Sabrina",
-        "content": "*phrasing*",
         "author_id": "252581296436412416",
-        "server": "Sabrina's Head"
+        "authorcolor": "#206694"
       },
       {
         "timestamp": "2017-04-19T00:19:20.173000+00:00",
@@ -84,49 +84,49 @@
         "author_id": "201067426954215426"
       },
       {
-        "authorcolor": "#06393e",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:20.437000+00:00",
+        "content": "",
         "edited": null,
         "author": ".",
-        "content": "",
         "author_id": "189628169299427328",
-        "server": "Sabrina's Head"
+        "authorcolor": "#06393e"
       },
       {
-        "authorcolor": "#992D22",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:20.585000+00:00",
+        "content": "Well then",
         "edited": null,
         "author": "Firnagzen",
-        "content": "Well then",
         "author_id": "178020704774520833",
-        "server": "Sabrina's Head"
+        "authorcolor": "#992D22"
       },
       {
-        "authorcolor": "#f1c40f",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:32.230000+00:00",
+        "content": "Sabrina's pants are also evil... I forbid the pants",
         "edited": null,
         "author": "Mami",
-        "content": "Sabrina's pants are also evil... I forbid the pants",
         "author_id": "222505900001198081",
-        "server": "Sabrina's Head"
+        "authorcolor": "#f1c40f"
       },
       {
-        "authorcolor": "#206694",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:33.186000+00:00",
+        "content": "_flees the channel_",
         "edited": null,
         "author": "Sabrina",
-        "content": "_flees the channel_",
         "author_id": "252581296436412416",
-        "server": "Sabrina's Head"
+        "authorcolor": "#206694"
       },
       {
-        "authorcolor": "#f1c40f",
+        "server": "Sabrina's Head",
         "timestamp": "2017-04-19T00:19:42.677000+00:00",
+        "content": "_chases @Sabrina_",
         "edited": null,
         "author": "Mami",
-        "content": "_chases @Sabrina_",
         "author_id": "222505900001198081",
-        "server": "Sabrina's Head"
+        "authorcolor": "#f1c40f"
       }
     ]
   },
@@ -136,18 +136,21 @@
     "lines": [
       {
         "channel": "pmas",
-        "authorcolor": "#E67E22",
+        "server": "Sabrina's Head",
+        "content": "but no seriously if Sasa was a furry she'd probably be way more relaxed.",
         "timestamp": "2017-03-24T00:02:49.235000+00:00",
         "edited": null,
         "author": "AuraTwilight",
-        "content": "but no seriously if Sasa was a furry she'd probably be way more relaxed.",
         "author_id": "157027749314166784",
-        "server": "Sabrina's Head"
+        "authorcolor": "#E67E22"
       }
     ]
   },
   {
     "quoted": "2017-06-21T02:57:16.722565",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "326918464725975051",
     "lines": [
       {
         "timestamp": "2017-06-20T19:37:43.843000+00:00",
@@ -3829,13 +3832,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "326918464725975051",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-06-21T07:30:25.189540",
+    "channel": "bot-abuse",
+    "server": "Sabrina's Head",
+    "id": "326987202817163265",
     "lines": [
       {
         "timestamp": "2017-06-21T07:29:31.377000+00:00",
@@ -3845,13 +3848,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "326987202817163265",
-    "channel": "bot-abuse"
+    ]
   },
   {
     "quoted": "2017-06-21T14:43:25.858217",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327096175247360021",
     "lines": [
       {
         "timestamp": "2017-06-21T07:26:42.983000+00:00",
@@ -3965,13 +3968,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327096175247360021",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-21T23:37:03.227134",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327230464903610378",
     "lines": [
       {
         "timestamp": "2017-06-21T23:31:33.848000+00:00",
@@ -3997,13 +4000,13 @@
         "author_id": "201067426954215426",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327230464903610378",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T01:27:25.876634",
+    "channel": "pmmm",
+    "server": "Sabrina's Head",
+    "id": "327258243648978944",
     "lines": [
       {
         "timestamp": "2017-06-22T00:42:32.555000+00:00",
@@ -4149,13 +4152,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327258243648978944",
-    "channel": "pmmm"
+    ]
   },
   {
     "quoted": "2017-06-22T03:14:06.262142",
+    "channel": "pmmm",
+    "server": "Sabrina's Head",
+    "id": "327285088683294720",
     "lines": [
       {
         "timestamp": "2017-06-22T01:25:01.635000+00:00",
@@ -4165,13 +4168,13 @@
         "author_id": "201067426954215426",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327285088683294720",
-    "channel": "pmmm"
+    ]
   },
   {
     "quoted": "2017-06-22T03:17:39.683142",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327285982477025285",
     "lines": [
       {
         "timestamp": "2017-06-21T06:33:01.875000+00:00",
@@ -4221,13 +4224,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327285982477025285",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T03:23:38.776844",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327287489746173953",
     "lines": [
       {
         "timestamp": "2017-06-17T01:27:25.829000+00:00",
@@ -4237,13 +4240,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327287489746173953",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T03:24:30.011304",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327287704817500160",
     "lines": [
       {
         "timestamp": "2017-06-17T01:46:15.793000+00:00",
@@ -4341,13 +4344,13 @@
         "author_id": "167825879144202241",
         "authorcolor": "#E74C3C"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327287704817500160",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T03:31:28.452522",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327289459869483014",
     "lines": [
       {
         "timestamp": "2017-05-23T02:24:03.968000+00:00",
@@ -4405,13 +4408,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327289459869483014",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T04:13:32.180631",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327300044141101056",
     "lines": [
       {
         "timestamp": "2017-05-16T11:01:28.580000+00:00",
@@ -5229,13 +5232,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327300044141101056",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T13:51:25.467505",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327445475454353409",
     "lines": [
       {
         "timestamp": "2017-06-22T13:50:32.809000+00:00",
@@ -5253,13 +5256,13 @@
         "author_id": "229596970161930240",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327445475454353409",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-22T17:50:58.763788",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "327505760022167572",
     "lines": [
       {
         "timestamp": "2017-06-22T17:45:55.355000+00:00",
@@ -5269,13 +5272,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327505760022167572",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-06-22T18:09:28.431571",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "327510414092926976",
     "lines": [
       {
         "timestamp": "2017-06-22T18:05:19.569000+00:00",
@@ -5317,13 +5320,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327510414092926976",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-06-23T02:55:53.431159",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "327642892061638656",
     "lines": [
       {
         "timestamp": "2017-06-23T01:56:41.498000+00:00",
@@ -6293,13 +6296,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327642892061638656",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-06-23T02:58:32.024994",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "327643558045548545",
     "lines": [
       {
         "timestamp": "2017-06-23T02:55:58.570000+00:00",
@@ -6437,13 +6440,13 @@
         "author_id": "222505900001198081",
         "authorcolor": "#F1C40F"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "327643558045548545",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-24T03:40:33.281827",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "328016521068544020",
     "lines": [
       {
         "timestamp": "2017-06-24T00:29:50.114000+00:00",
@@ -7237,13 +7240,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "328016521068544020",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-06-24T18:26:31.238725",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "328239481427591169",
     "lines": [
       {
         "timestamp": "2017-06-24T17:17:57.471000+00:00",
@@ -7973,13 +7976,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "328239481427591169",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-25T05:35:28.898990",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "328407830329688065",
     "lines": [
       {
         "timestamp": "2017-06-25T02:09:33.601000+00:00",
@@ -9309,13 +9312,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "328407830329688065",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-25T07:43:46.343769",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "328440114734956558",
     "lines": [
       {
         "timestamp": "2017-06-25T07:41:57.465000+00:00",
@@ -9397,13 +9400,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "328440114734956558",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-25T07:51:14.762379",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "328441997029539872",
     "lines": [
       {
         "timestamp": "2017-06-25T07:49:52.826000+00:00",
@@ -9413,13 +9416,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "328441997029539872",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-28T02:07:11.356540",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "329442575146680322",
     "lines": [
       {
         "timestamp": "2017-06-28T02:06:48.641000+00:00",
@@ -9430,13 +9433,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "329442575146680322",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-28T02:08:03.294532",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "329442794030628864",
     "lines": [
       {
         "timestamp": "2017-06-27T22:45:17.920000+00:00",
@@ -9483,13 +9486,13 @@
         "author_id": "222505900001198081",
         "authorcolor": "#F1C40F"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "329442794030628864",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-28T02:08:09.659961",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "329442803685785610",
     "lines": [
       {
         "timestamp": "2017-06-28T01:21:15.351000+00:00",
@@ -9527,13 +9530,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "329442803685785610",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-28T04:12:35.330768",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "329474132830060548",
     "lines": [
       {
         "timestamp": "2017-06-28T04:11:16.837000+00:00",
@@ -9580,13 +9583,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "329474132830060548",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-06-29T14:43:15.971470",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "329995237009391627",
     "lines": [
       {
         "timestamp": "2017-06-29T13:56:34.535000+00:00",
@@ -10506,13 +10509,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "329995237009391627",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-01T02:35:14.130298",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "330536797585145857",
     "lines": [
       {
         "timestamp": "2017-06-28T02:10:28.449000+00:00",
@@ -10523,13 +10526,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "330536797585145857",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-02T03:49:09.389024",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "330917788577169409",
     "lines": [
       {
         "timestamp": "2017-07-02T03:26:54.006000+00:00",
@@ -11422,13 +11425,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "330917788577169409",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-04T07:29:17.569535",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "331697963569119232",
     "lines": [
       {
         "timestamp": "2017-07-04T07:05:54.857000+00:00",
@@ -12363,13 +12366,13 @@
         "author_id": "172878591456051200",
         "authorcolor": "#2ECC71"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "331697963569119232",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-05T03:38:23.519099",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "332002240980320257",
     "lines": [
       {
         "timestamp": "2017-07-05T03:38:03.465000+00:00",
@@ -12380,13 +12383,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "332002240980320257",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-05T03:39:47.790499",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "332002596422418442",
     "lines": [
       {
         "timestamp": "2017-07-05T02:30:42.852000+00:00",
@@ -13306,13 +13309,13 @@
         "author_id": "167825879144202241",
         "authorcolor": "#E74C3C"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "332002596422418442",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-05T18:32:15.454344",
+    "channel": "thearena",
+    "server": "Sabrina's Head",
+    "id": "332227191729422336",
     "lines": [
       {
         "timestamp": "2017-07-05T18:22:51.817000+00:00",
@@ -13926,13 +13929,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "332227191729422336",
-    "channel": "thearena"
+    ]
   },
   {
     "quoted": "2017-07-09T09:13:44.332850",
+    "channel": "hugs",
+    "server": "Sabrina's Head",
+    "id": "333536187207909379",
     "lines": [
       {
         "timestamp": "2017-07-08T17:44:36.425000+00:00",
@@ -13943,13 +13946,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "333536187207909379",
-    "channel": "hugs"
+    ]
   },
   {
     "quoted": "2017-07-09T15:32:26.925301",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "333631491646947338",
     "lines": [
       {
         "timestamp": "2017-07-09T15:05:42.891000+00:00",
@@ -14284,13 +14287,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "333631491646947338",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-12T01:10:16.492029",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "334501682971017226",
     "lines": [
       {
         "timestamp": "2017-07-12T00:57:22.876000+00:00",
@@ -14905,13 +14908,13 @@
         "author_id": "227240731515944960",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "334501682971017226",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-12T23:28:08.513480",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "334838367151718420",
     "lines": [
       {
         "timestamp": "2017-07-12T23:26:10.418000+00:00",
@@ -14994,13 +14997,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "334838367151718420",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-13T15:08:58.539617",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "335075137265074186",
     "lines": [
       {
         "timestamp": "2017-07-13T15:00:49.983000+00:00",
@@ -15029,13 +15032,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "335075137265074186",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-14T02:28:29.186431",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "335246141673308171",
     "lines": [
       {
         "timestamp": "2017-07-14T02:27:43.813000+00:00",
@@ -15046,13 +15049,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "335246141673308171",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-14T02:29:03.942706",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "335246286955610114",
     "lines": [
       {
         "timestamp": "2017-07-14T02:26:58.990000+00:00",
@@ -15099,13 +15102,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "335246286955610114",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-15T01:11:32.697362",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "335589166496874500",
     "lines": [
       {
         "timestamp": "2017-07-15T01:07:23.662000+00:00",
@@ -15296,13 +15299,13 @@
         "author_id": "261636485692915713",
         "authorcolor": "#1A7939"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "335589166496874500",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-15T12:15:06.160688",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "335756155026669568",
     "lines": [
       {
         "timestamp": "2017-07-15T01:42:45.424000+00:00",
@@ -15457,13 +15460,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "335756155026669568",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-07-18T01:26:51.169824",
+    "channel": "toboldlygo",
+    "server": "Sabrina's Head",
+    "id": "336680182112976898",
     "lines": [
       {
         "timestamp": "2017-07-17T19:35:25.785000+00:00",
@@ -15627,13 +15630,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "336680182112976898",
-    "channel": "toboldlygo"
+    ]
   },
   {
     "quoted": "2017-07-18T01:30:55.814378",
+    "channel": "toboldlygo",
+    "server": "Sabrina's Head",
+    "id": "336681208459165696",
     "lines": [
       {
         "timestamp": "2017-07-18T01:25:45.615000+00:00",
@@ -15761,13 +15764,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "336681208459165696",
-    "channel": "toboldlygo"
+    ]
   },
   {
     "quoted": "2017-07-29T02:42:57.263073",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "340685600850182146",
     "lines": [
       {
         "timestamp": "2017-07-29T02:41:20.851000+00:00",
@@ -15796,13 +15799,13 @@
         "author_id": "172878591456051200",
         "authorcolor": "#2ECC71"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "340685600850182146",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-07-30T04:33:51.698196",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "341075899334000640",
     "lines": [
       {
         "timestamp": "2017-07-30T03:38:34.145000+00:00",
@@ -16615,13 +16618,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "341075899334000640",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-08-01T03:28:49.356839",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "341784306156437504",
     "lines": [
       {
         "timestamp": "2017-08-01T03:25:07.233000+00:00",
@@ -16740,13 +16743,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "341784306156437504",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-08-01T03:50:44.933844",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "341789825495728128",
     "lines": [
       {
         "timestamp": "2017-08-01T03:46:18.141000+00:00",
@@ -17072,13 +17075,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "341789825495728128",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-08-01T17:46:29.635809",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "342000145505714177",
     "lines": [
       {
         "timestamp": "2017-08-01T17:25:11.674000+00:00",
@@ -17089,13 +17092,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "342000145505714177",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-08-01T22:55:04.979731",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "342077806005714955",
     "lines": [
       {
         "timestamp": "2017-08-01T22:24:12.802000+00:00",
@@ -17295,13 +17298,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "342077806005714955",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-08-09T20:47:18.188248",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "344944752095133696",
     "lines": [
       {
         "timestamp": "2017-05-12T15:49:46.139000+00:00",
@@ -18221,13 +18224,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "344944752095133696",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-08-22T23:28:49.562290",
+    "channel": "pmas-fanworks",
+    "server": "Sabrina's Head",
+    "id": "349696442170081282",
     "lines": [
       {
         "timestamp": "2017-08-22T23:26:51.542000+00:00",
@@ -18283,13 +18286,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "349696442170081282",
-    "channel": "pmas-fanworks"
+    ]
   },
   {
     "quoted": "2017-08-30T00:49:52.133312",
+    "channel": "pmmm",
+    "server": "Sabrina's Head",
+    "id": "352253553492099072",
     "lines": [
       {
         "timestamp": "2017-08-30T00:18:23.731000+00:00",
@@ -18391,13 +18394,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "352253553492099072",
-    "channel": "pmmm"
+    ]
   },
   {
     "quoted": "2017-09-03T04:04:21.101062",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "353752047742484480",
     "lines": [
       {
         "timestamp": "2017-09-03T02:44:04.667000+00:00",
@@ -18885,13 +18888,13 @@
         "author_id": "178996040622538752",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "353752047742484480",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-09-09T12:09:03.771807",
+    "channel": "general",
+    "server": "Sabrina's Head",
+    "id": "356048356453384193",
     "lines": [
       {
         "timestamp": "2017-09-09T12:04:14.376000+00:00",
@@ -19046,13 +19049,13 @@
         "author_id": "205115196098871297",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "356048356453384193",
-    "channel": "general"
+    ]
   },
   {
     "quoted": "2017-09-10T17:28:30.022739",
+    "channel": "pmas-fanworks",
+    "server": "Sabrina's Head",
+    "id": "356491131896201228",
     "lines": [
       {
         "timestamp": "2017-09-10T05:19:12.451000+00:00",
@@ -21079,13 +21082,13 @@
         "author_id": "178254095973351424",
         "authorcolor": "#3498DB"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "356491131896201228",
-    "channel": "pmas-fanworks"
+    ]
   },
   {
     "quoted": "2017-09-13T16:53:19.698010",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "357569445440258070",
     "lines": [
       {
         "timestamp": "2017-09-13T12:13:23.758000+00:00",
@@ -22005,13 +22008,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "357569445440258070",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-09-14T03:29:14.539919",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "357729478719569920",
     "lines": [
       {
         "timestamp": "2017-09-14T03:02:25.816000+00:00",
@@ -22220,13 +22223,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "357729478719569920",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-10-06T20:38:33.757120",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "365961048731287552",
     "lines": [
       {
         "timestamp": "2017-10-06T20:27:57.066000+00:00",
@@ -22246,13 +22249,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "365961048731287552",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-10-12T05:03:03.733021",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "367899949532184576",
     "lines": [
       {
         "timestamp": "2017-10-11T21:03:29.111000+00:00",
@@ -22623,13 +22626,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "367899949532184576",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-10-30T00:39:24.497390",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "374356579782492161",
     "lines": [
       {
         "timestamp": "2017-10-30T00:01:03.412000+00:00",
@@ -23032,13 +23035,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "374356579782492161",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-10-30T00:46:10.184340",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "374358282283778048",
     "lines": [
       {
         "timestamp": "2017-10-29T23:44:39.380000+00:00",
@@ -23635,13 +23638,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "374358282283778048",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-11-03T04:51:56.409438",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "375869684051869696",
     "lines": [
       {
         "timestamp": "2017-11-03T04:20:05.648000+00:00",
@@ -24273,13 +24276,13 @@
         "author_id": "189297440388677632",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "375869684051869696",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-11-04T11:41:38.210301",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "376335175442890753",
     "lines": [
       {
         "timestamp": "2017-11-03T04:20:05.648000+00:00",
@@ -24911,13 +24914,13 @@
         "author_id": "189297440388677632",
         "authorcolor": null
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "376335175442890753",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2017-11-05T00:41:29.523369",
+    "channel": "pmas-fanworks",
+    "server": "Sabrina's Head",
+    "id": "376531432161673216",
     "lines": [
       {
         "timestamp": "2017-11-04T21:45:09.502000+00:00",
@@ -25374,16 +25377,10 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "376531432161673216",
-    "channel": "pmas-fanworks"
+    ]
   },
   {
     "channel": "pmas",
-    "quoted": "2017-11-05T01:12:10.509309",
-    "server": "Sabrina's Head",
-    "id": "376539152281370624",
     "lines": [
       {
         "timestamp": "2017-11-04T23:10:55.280000+00:00",
@@ -29735,13 +29732,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "376539152281370624",
+    "quoted": "2017-11-05T01:12:10.509309"
   },
   {
     "channel": "bot-abuse",
-    "quoted": "2017-11-10T05:53:07.127778",
-    "server": "Sabrina's Head",
-    "id": "378421793863761922",
     "lines": [
       {
         "timestamp": "2017-11-10T05:48:01.036000+00:00",
@@ -29797,13 +29794,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "378421793863761922",
+    "quoted": "2017-11-10T05:53:07.127778"
   },
   {
     "channel": "pmas",
-    "quoted": "2017-11-11T23:21:30.541528",
-    "server": "Sabrina's Head",
-    "id": "379048017770053644",
     "lines": [
       {
         "timestamp": "2017-11-11T23:02:55.713000+00:00",
@@ -30438,13 +30435,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#95A5A6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "379048017770053644",
+    "quoted": "2017-11-11T23:21:30.541528"
   },
   {
     "channel": "general",
-    "quoted": "2017-12-20T04:19:56.019648",
-    "server": "Sabrina's Head",
-    "id": "392893858494808074",
     "lines": [
       {
         "timestamp": "2017-12-20T04:01:23.994000+00:00",
@@ -31261,13 +31258,13 @@
         "author_id": "189628169299427328",
         "authorcolor": "#06393E"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "392893858494808074",
+    "quoted": "2017-12-20T04:19:56.019648"
   },
   {
     "quoted": "2018-01-13T23:15:17.979162",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "401876891247575041",
     "lines": [
       {
         "timestamp": "2018-01-13T22:33:47.972000+00:00",
@@ -31664,6 +31661,3097 @@
         "author": "Yvonne",
         "author_id": "304193780968325121",
         "authorcolor": "#979C9F"
+      }
+    ],
+    "server": "Sabrina's Head",
+    "id": "401876891247575041",
+    "channel": "pmas"
+  },
+  {
+    "quoted": "2018-01-17T03:11:21.870083",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "403023461137776640",
+    "lines": [
+      {
+        "timestamp": "2018-01-16T23:31:33.099000+00:00",
+        "content": "Alright, so, apparently there's something about higher spatial dimensions and *something* in PMAS, but it doesn't have anything to do with witches, barriers, or grief seeds, and I'm not smart enough to figure it out.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:32:29.580000+00:00",
+        "content": "I cleared it with Firn before looking to talk about it here",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:32:30.287000+00:00",
+        "content": "wait what",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:33:00.304000+00:00",
+        "content": "It's apparently not a big deal, either way",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:34:01.808000+00:00",
+        "content": "But I've been completely nerdsniped by something I'm not smart enough to even figure out how to approach.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:34:14.575000+00:00",
+        "content": "So I figured I'd toss it to the community.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:34:56.984000+00:00",
+        "content": "well, it started with brina thinking about grief hyperspheres",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-16T23:35:05.081000+00:00",
+        "content": "As one does",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:35:21.032000+00:00",
+        "content": "I hinted there's something to it, in the opposite direction from witches and barriers",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-16T23:35:26.135000+00:00",
+        "content": "and that's all I'll say",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-16T23:35:38.314000+00:00",
+        "content": "I'd been idly pondering if it'd be possible to stack more grief into a given volume of 3-space by moving it aside along a higher dimensional axis.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:36:02.013000+00:00",
+        "content": "Hm...",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:36:17.955000+00:00",
+        "content": "I mean, it...",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:36:25.662000+00:00",
+        "content": "_blinks several times._",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:36:42.065000+00:00",
+        "content": "Could it possibly have something to do with how Witch Barriers seem to have a reality/unreality axis? So, in the other direction, you're going hyperreal, or...?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:36:55.645000+00:00",
+        "content": "Opposite direction from witches and barriers.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:37:06.761000+00:00",
+        "content": "As in, the thing *about* the thought",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:37:57.335000+00:00",
+        "content": "Could this have something to do with the spacehug dimension?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:38:16.518000+00:00",
+        "content": "Not that sort of dimension, Aura.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:38:29.112000+00:00",
+        "content": "I'm aware.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:39:02.273000+00:00",
+        "content": "I mean like. How to put it.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:39:26.645000+00:00",
+        "content": "Joke Response: \"It's barriers all the way up.\"",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:39:57.067000+00:00",
+        "content": "Right, I'm going to just go now.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:40:08.906000+00:00",
+        "content": "But like. The defining thing about barriers is that they're _inward_ spaces that _sequester from the world_ and _are psychoactive to thoughts_ instead of acting to the real world.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:40:12.654000+00:00",
+        "content": "So what's the opposite of that.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:40:19.737000+00:00",
+        "content": "Hmm...",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:40:25.342000+00:00",
+        "content": "Not that sort of opposite",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:40:28.885000+00:00",
+        "content": "Madokahalla?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:40:40.124000+00:00",
+        "content": "Can we send our grief into the future to be dealth with later by making a grief hypercube?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:40:41.473000+00:00",
+        "content": "As in, \"has nothing whatsoever to do with witches or barriers\"",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:40:42.525000+00:00",
+        "content": "Well you didn't give me much to go on aside from \"opposite direction of barriers.\"",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:41:07.083000+00:00",
+        "content": "I was trying to plot a spectrum.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:41:46.705000+00:00",
+        "content": "As in, the possibility space *to be searched* is opposite from there",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:41:54.381000+00:00",
+        "content": "Not that the thing in question is the opposite of a barrier",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:42:51.297000+00:00",
+        "content": "Okay, gotcha.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:46:09.797000+00:00",
+        "content": "I understand most of these words.\n...on their own...",
+        "edited": null,
+        "attachments": [],
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:46:42.545000+00:00",
+        "content": "Right now about the only thing that I can think of is that distances in n-space might not correspond to distances in 3-space, and our range limit isn't 3-space, but *absolute*, except that magic *doesn't work like that*.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:46:53.883000+00:00",
+        "content": "It's like the Aristotlean vs Newtonian motion thing with broom vs rocket in HPMOR",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:47:38.485000+00:00",
+        "content": "Remind me, how do we know magic doesn't work like that? Just before anyone argues the point.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:48:12.610000+00:00",
+        "content": "```\n[3:41 PM] Godwinson: huh\n[3:41 PM] Godwinson: contemplates\n[3:41 PM] Firnagzen: Hmmm?\n[3:41 PM] Godwinson: Grief hyperspheres.\n[3:41 PM] Firnagzen: :)\n[3:41 PM] Godwinson: Pack more grief into a given 3-space volume by shifting some of it to the side in higher dimensions\n[3:42 PM] Firnagzen: Keep going with that thought\n[3:42 PM] Godwinson: Oh!\n[3:42 PM] Godwinson: That's how a barrier works?\n[3:42 PM] Godwinson: Wait, no.\n[3:43 PM] Godwinson: Movement within a barrier corresponds to 3-space\n[3:43 PM] Godwinson: The barrier itself is parallel, then?\n[3:43 PM] Godwinson: Or is...\n[3:44 PM] Firnagzen: Interesting thought, but wrong direction\n[3:44 PM] Godwinson: Maybe the witch-stuff that fills a grief seed is maximally stacked?\n[3:44 PM] Godwinson: Fully saturates all spatial dimensions?\n[3:44 PM] Firnagzen: Also, the shadow of a 4d object is 3d\n[3:44 PM] Godwinson: Right, yeah, that...\n[3:44 PM] Godwinson: ugh\n[3:45 PM] Firnagzen: You can principally get it down to 2d, analogous to balancing a cube on one vertex\n[3:45 PM] Godwinson: I don't think I have the appropriate knowledge base to properly explore this. :frowning:\n[3:46 PM] Firnagzen: Nah, you do\n[3:46 PM] Godwinson: OH!\n[3:46 PM] Firnagzen: Opposite direction from witches and barriers...?\n```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:48:42.185000+00:00",
+        "content": "```[3:47 PM] Godwinson: The thing with familiars and witch kisses and all that?\n[3:47 PM] Godwinson: It's...\n[3:47 PM] Godwinson: ....\n[3:47 PM] Godwinson: blinks\n[3:48 PM] Godwinson: It could be that they're closer in 4-space than 3-space, but why would that matter?\n[3:48 PM] Godwinson: Having a 100m limit is something about Sabrina's power\n[3:48 PM] Godwinson: but\n[3:48 PM] Godwinson: no\n[3:48 PM] Godwinson: It's also more fundamental\n[3:49 PM] Godwinson: It's the distance at which a soul gem disconnects...\n[3:50 PM] Godwinson: but that would...\n[3:52 PM] Godwinson: No, there's other magical effects that propagate beyond 100m that aren't Mami's connection-based ribbons\n[3:53 PM] Godwinson: And Walpurgisnacht also shows that it's not something inherent to witches\n[3:53 PM] Firnagzen: hmmmm\n[3:53 PM] Firnagzen: you're going too far\n[3:53 PM] Firnagzen: [9:41 AM] Godwinson: Grief hyperspheres.\n[9:46 AM] Firnagzen: Opposite direction from witches and barriers...?\n[3:54 PM] Godwinson: um\n[3:55 PM] Godwinson: Yeah, about the only thing I can think of is that it's how the contents of a grief seed work.\n[3:56 PM] Godwinson: Yeah, I'm drawing a blank\n[3:58 PM] Godwinson: continues working over the problem.\n[3:58 PM] Firnagzen: go further in the opposite direction from Witches and Barriers and Grief Seeds```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:49:14.582000+00:00",
+        "content": "```[4:00 PM] Godwinson: frowns\n[4:00 PM] Godwinson: pulls up PMAS\n[4:01 PM] Firnagzen: patpat\n[4:01 PM] Firnagzen: don't stress too hard about it!\n[4:08 PM] Godwinson: Grief is... the shadow of the witch, even when it's \"unborn\", because the abyssal speck at the core of the soul gem is... the point it rests on reality, and the grief is... it pulling itself into 3-space?\n[4:08 PM] Godwinson: No, that's stupid\n[4:09 PM] Godwinson: because if that's the case, then why would a grief seed... exist\n[4:10 PM] Godwinson: The need to have enough... shadow to stay existing?\n[4:10 PM] Godwinson: No, that doesn't make any sense.\n[4:11 PM] Firnagzen: musses\n[4:11 PM] Godwinson: Ugh\n[4:11 PM] Firnagzen: you did see me say opposite direction, right?\n[4:11 PM] Godwinson: Yes?\n[4:11 PM] Godwinson: :\\\n[4:12 PM] Godwinson: Right\n[4:12 PM] Godwinson: discards everything\n[4:12 PM] Godwinson: Grief hyperspheres\n[4:12 PM] Firnagzen: opposite of witches and barriers...?\n[4:12 PM] Godwinson: Go further\n[4:12 PM] Godwinson: Opposite of witches and barriers\n[4:27 PM] Godwinson: I honestly can't think of anything.\n[4:27 PM] Godwinson: If you're certain I have all the information needed, then clearly I'm just not smart enough to put the pieces together.\n[4:27 PM] Firnagzen: that's fine! It's not a big deal```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:50:02.673000+00:00",
+        "content": "Are soul gems the opposite of Grief seeds?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:50:05.077000+00:00",
+        "content": "There.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:50:14.567000+00:00",
+        "content": "That's everything.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-16T23:50:19.502000+00:00",
+        "content": "Okay. Thank you.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:50:22.603000+00:00",
+        "content": "`Opposite direction from witches and barriers`\nSo it's not physics based, but rather than going from based on thought emotion and whim like barriers, it's closer to based on base mathematics?",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-16T23:50:46.957000+00:00",
+        "content": "(at least, that's the first thing that pops into my head)",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-16T23:51:35.317000+00:00",
+        "content": "....wait a second.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:51:36.695000+00:00",
+        "content": "Still \"governed by ideas\" but it's mathematical ideas rather than human ones.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-16T23:51:59.032000+00:00",
+        "content": "Could he possibly mean how barriers are basically hyper-compressed spaces?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:52:09.899000+00:00",
+        "content": "Like they're correlating to 3D space but they can be bigger on the inside and shit",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:52:29.731000+00:00",
+        "content": "firn said not about barriers tho",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:52:30.537000+00:00",
+        "content": "So instead this could be a single space that occupies multiple spaces.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:52:33.544000+00:00",
+        "content": "Alrighty. From that conversation I'm getting, maybe, that grief is the \"shadow\" of a 4d thing that is not barriers or witches.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:52:37.663000+00:00",
+        "content": "The soul itself?",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:52:44.968000+00:00",
+        "content": "Right, of course it's the soul itself.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:53:02.056000+00:00",
+        "content": "so maybe Sabrina's magic works by having parts of her soul _exist outside of the Soul Gem_ basically?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:53:29.967000+00:00",
+        "content": "Well, every girl's Soul Gem range is essentially the same, isn't it?",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:53:38.390000+00:00",
+        "content": "soul gems 4d shoadows of grief seeds?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:53:50.842000+00:00",
+        "content": "Soul Gems and Grief Seeds are the same thing.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:54:05.039000+00:00",
+        "content": "There's about 100m their Gem can go from their bodies before they can't control their bodies.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:54:33.258000+00:00",
+        "content": "So, her soul wouldn't exist outside of the Soul Gem in a way that other girls' don't.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:54:56.016000+00:00",
+        "content": "But she'd have control over its shadow's expression in the 3d space?",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:55:26.620000+00:00",
+        "content": "What I mean is...is Sabrina's magic basically projecting a 4D shadow of her soul.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:55:38.458000+00:00",
+        "content": "...That's not quite what I'm trying to say. Argh.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:55:46.780000+00:00",
+        "content": "Okay, let me put it this way",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:55:56.899000+00:00",
+        "content": "My general theory of the soul as a multiversal entity",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:56:08.930000+00:00",
+        "content": "Everything the shadow (of my soul) touches is mine?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:56:13.198000+00:00",
+        "content": "Doesn't that make _people_ essentially 3D shadows of a 4D thing?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:56:19.438000+00:00",
+        "content": "`There's about 100m their Gem can go from their bodies before they can't control their bodies.\nSo, her soul wouldn't exist outside of the Soul Gem in a way that other girls' don't.`\nIt might be worth noting on this sub-point that other iterations of Sabrina had different range limits. \"means to fix everything\" had for instances a limit of five meters.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-16T23:56:28.466000+00:00",
+        "content": "something something someone said the other time that the Soul might not be in the Soul Gem itself...?",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:00.981000+00:00",
+        "content": "Soul casts a shadow in 4-space?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:27.651000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:29.231000+00:00",
+        "content": "light-cone",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:38.864000+00:00",
+        "content": "Soul-cone?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:52.500000+00:00",
+        "content": "I feel like whatever Firn's getting at might be the key to fucking our range limit, atleast in part via understanding why it is.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:57:53.606000+00:00",
+        "content": "Onmarb, so the soul isn't contained in the Soul Gem so much as bound to it?",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:57:56.570000+00:00",
+        "content": "While \"wish to live\" had something to do with the illusion of a sun.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-16T23:58:32.555000+00:00",
+        "content": "Well, canon seems to imply the Soul Gem is literally the soul and not just its container.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-16T23:58:50.141000+00:00",
+        "content": "Hmm.",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:59:09.429000+00:00",
+        "content": "where are the meter limits from?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:59:11.904000+00:00",
+        "content": "But if the Soul exists across multiple universes, the Soul Gem can't quite be the Soul",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-16T23:59:31.006000+00:00",
+        "content": "Yes, it can, Onmur.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:00:04.056000+00:00",
+        "content": "It's the soul-as-exists-in-this-universe, and that it's in another state in Universe B is irrelevant.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:00:18.779000+00:00",
+        "content": "The oversoul, however you want to call it",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:00:28.344000+00:00",
+        "content": "`Hmm.\nwhere are the meter limits from?` That I posted? Firn's WoG, IIRC you should be able to find it near the semi canon omake for \"fix everything\"!brina",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:02:56.382000+00:00",
+        "content": "I'm picturing the soul now as a hypersphere that's been pinched in the middle, turned into a 4d hourglass with the Soul Gem as the hourglass's neck where it interacts with the 3d.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:03:04.542000+00:00",
+        "content": "It could be that the soul gem is the 3-space shadow of the 4-space soul, and that 100m is the size of the soul itself?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:03:13.830000+00:00",
+        "content": "Or 3-space interection?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:03:36.350000+00:00",
+        "content": "So the Incubators just... pull a tiny bit physically into 3-space?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:03:40.539000+00:00",
+        "content": "eh",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:04:18.233000+00:00",
+        "content": "the translation where kb tells Madoka she has so much potential he couldn't tell how big her soul gem would be\n\n*how big*\n\nis it a good translation or a bad translation",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:05:13.859000+00:00",
+        "content": "it's a good one",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:05:18.102000+00:00",
+        "content": "....HOLY FUCK WAIT",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:05:21.808000+00:00",
+        "content": "How much of that's intended to be literal? And, if it's literal, how much of that would be expressed in three dimensions?",
+        "edited": "2018-01-17T00:05:27.096000+00:00",
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:05:26.871000+00:00",
+        "content": "but no matter how \"big\" a Soul Gem is it's the SAME SIZE",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:05:32.422000+00:00",
+        "content": "^",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:05:36.220000+00:00",
+        "content": "even Madokami's was the same size but had a giant FUCKING aura",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:05:48.561000+00:00",
+        "content": "Soul Gems and Grief Seeds are fucking hyperspheres",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:02.110000+00:00",
+        "content": ".... so what can we do with that knowledge",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:06:08.795000+00:00",
+        "content": "Still picturing a 4d hourglass at this point.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:06:27.281000+00:00",
+        "content": "I'm picturing a soul gem duing that spinning thing that animations of hypercubes do",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:06:29.403000+00:00",
+        "content": "[11:05 AM] AuraTwilight: but no matter how \"big\" a Soul Gem is it's the SAME SIZE",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:30.752000+00:00",
+        "content": "lewd?",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:32.123000+00:00",
+        "content": "lewd",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:33.305000+00:00",
+        "content": "Well, trying to. I have no idea what that would look like.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:06:38.204000+00:00",
+        "content": "/lewd",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:06:38.542000+00:00",
+        "content": "",
+        "edited": null,
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266536771599204352/402976978153766922/lewd5.jpeg",
+            "filename": "lewd5.jpeg"
+          }
+        ],
+        "author": "\u0323",
+        "author_id": "189628169299427328",
+        "authorcolor": "#06393E"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:42.507000+00:00",
+        "content": "the opposite of a barrier is a grief seed",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:06:49.627000+00:00",
+        "content": "because one is compacted and the other is UNFURLED",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:07:04.487000+00:00",
+        "content": "so ... barriers are witch's soul?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:07:07.876000+00:00",
+        "content": "huh",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:07:09.313000+00:00",
+        "content": "```[3:58 PM] Firnagzen: go further in the opposite direction from Witches and Barriers and Grief Seeds```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:07:10.530000+00:00",
+        "content": "So",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:07:26.526000+00:00",
+        "content": "Journey inside a soul?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:07:28.110000+00:00",
+        "content": "I know Sabrina, this is a stepping block in my logic.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:07:28.503000+00:00",
+        "content": "right shit, we're back to frief seeds, barriers, and witche again",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:07:56.856000+00:00",
+        "content": "fried seeds",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:08:05.086000+00:00",
+        "content": "shush",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:08:21.057000+00:00",
+        "content": "I'm sticking with Soul Gems, souls' expressions in three dimensions, and meguka.",
+        "edited": null,
+        "attachments": [],
+        "author": "Kinruush",
+        "author_id": "286700826968195072",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:08:42.248000+00:00",
+        "content": "Hmm... not feeling it. Feels like it's pulling from Sabrina's aborted line of speculation rather than anything else.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:08:59.865000+00:00",
+        "content": "So, back to the basics. *something* is a 4D object?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:09:00.834000+00:00",
+        "content": "Like...it feels like the Gems-as-hyperspheres thing is more of a supporting point to whatever Firn's actually getting at rather than the main line of thinking. Like i'm circling around it and not quite getting there.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:09:17.170000+00:00",
+        "content": "Like....",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:09:44.688000+00:00",
+        "content": "...! Could this 4D shadow thing be related to Firn writing how 'loose' grief tries to clump together?",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:09:57.838000+00:00",
+        "content": "grief is 4D?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:10:15.289000+00:00",
+        "content": "I'll ruminate on this later.",
+        "edited": null,
+        "attachments": [],
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "authorcolor": "#A84300"
+      },
+      {
+        "timestamp": "2018-01-17T00:10:35.540000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:01.643000+00:00",
+        "content": "Even though firn said to go in the opposite direction",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:02.624000+00:00",
+        "content": "I'm wondering along the lines that the Grief we 'have' that we can 'see' and manipulate\nat least what we see of it, is a 3d shadow of the 4th dimensional emotion\nor something\n\ndo we actually manipulate grief in 4 dimensions",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:16.797000+00:00",
+        "content": "I'm still thinking about grief in seeds",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:29.367000+00:00",
+        "content": "When we compress grief hard enough, it goes \"4D\" and becomes magical?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:33.814000+00:00",
+        "content": "I doubt it's something silly like manipulating something's shadow to get the something to move",
+        "edited": "2018-01-17T00:11:50.834000+00:00",
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:35.724000+00:00",
+        "content": "Is magic 4D?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:35.736000+00:00",
+        "content": "wait",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:46.125000+00:00",
+        "content": "Opposite of witches, barriers, and seeds",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:11:48.121000+00:00",
+        "content": "Soul gems",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:12:13.186000+00:00",
+        "content": "Soul Gems, Magical Girls, and .... wish magic?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:12:17.880000+00:00",
+        "content": "yeah",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:13:47.770000+00:00",
+        "content": "light cones",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:13:55.964000+00:00",
+        "content": "I keep thinking of light cones",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:13.578000+00:00",
+        "content": "barriers are a light-cone's shadow?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:15.796000+00:00",
+        "content": "wait",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:23.583000+00:00",
+        "content": "if emotions are 4th dimensional\nand the grief we see is only a 3dimensional shadow\ntrying to store more grief by shoving it into another... 'plane' or however you call it\nwouldn't work, as that space is already occupied\nmaybe",
+        "edited": "2018-01-17T00:15:01.052000+00:00",
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:25.341000+00:00",
+        "content": "barriers are the shadow of a witch in 4d?",
+        "edited": "2018-01-17T00:14:30.969000+00:00",
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:35.861000+00:00",
+        "content": "Where are you getting light cones from?",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:14:38.203000+00:00",
+        "content": "or grief soul",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:48.530000+00:00",
+        "content": "shadows made me think of light",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:14:51.238000+00:00",
+        "content": "and luminosity",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:15:06.261000+00:00",
+        "content": "but then our powers would have a decreasing effect, not a cut-off",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:15:09.151000+00:00",
+        "content": "thus, light-cone",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:15:57.070000+00:00",
+        "content": "or something like a light cone",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:16:03.548000+00:00",
+        "content": "when we witch-compress grief\nmaybe that is moving it to another 3d space inside our 4d sphere",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:16:05.716000+00:00",
+        "content": "Well, personally, I'm thinking more that it looks to me like Firn said that barriers and witches were simply the wrong place to complete the thought.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:16:29.533000+00:00",
+        "content": "also: UKG",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:16:36.256000+00:00",
+        "content": "Hence the \"grief mathematics\" line of thought.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:16:37.521000+00:00",
+        "content": "how does ukg theory fit into this?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:16:38.901000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:16:49.689000+00:00",
+        "content": "...why would it?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:16:53.870000+00:00",
+        "content": "^",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:16:57.349000+00:00",
+        "content": "yeah, that's kind of random",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:17:01.492000+00:00",
+        "content": "Because 100m",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:17:20.154000+00:00",
+        "content": "That's sorta an irrelevant line I brought up as a nitpick.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:17:28.390000+00:00",
+        "content": "Or I responded to as a nitpick.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:17:54.554000+00:00",
+        "content": "the Unified Theory of Grief also has to account for UKG and Madokami",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:18:02.117000+00:00",
+        "content": "you want something random?\nthe universe expands over time\n[Q] 'expand' the universe but only in relation to you so 100m to you are >100m to others\n-[Q] this totally works and you effectively expand your range",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:18:19.925000+00:00",
+        "content": "--[Q] totally",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:18:44.792000+00:00",
+        "content": "The only thing I can fathom right now is that Magic is a hypercube.\nAlso, Grief Theory doesn't necessarily have to interfere with UKG or Madokami, unless Going to 4D ends up in star land",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:18:57.899000+00:00",
+        "content": "[Q]makegriefkirby",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:19:11.824000+00:00",
+        "content": "well, grief theory has to allow for UKG and Madokami",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:19:25.982000+00:00",
+        "content": "What if potential casts a shadow?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:19:29.594000+00:00",
+        "content": "the greater the potential",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:19:39.326000+00:00",
+        "content": "the greater the witch's shadow",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:20:25.493000+00:00",
+        "content": "Unless our theory somehow ended up disproving UKG's existance, I don't think we should have that many problems?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:20:42.944000+00:00",
+        "content": "I'm saying that we can use UKG/Madokami as another data point",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:20:54.985000+00:00",
+        "content": "at the very least, they can affect the entire Earth",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:21:19.653000+00:00",
+        "content": "As I pointed out before",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:21:26.682000+00:00",
+        "content": "Other magic can go beyond 100m",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:21:33.855000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:21:38.138000+00:00",
+        "content": "Right, so, my thoughts on \"grief hyperspheres\". Hardly new stuff, but... Grief is a truly continuous solid. It does not appear to be particle based at any point. So mathematics based on it will be different than reality's native particle physics.\nWhich means concepts in math might be able to work on it in ways they couldn't in real physics.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:21:38.762000+00:00",
+        "content": "I ruled that as a factor out almost *immediately*",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:21:54.359000+00:00",
+        "content": "... Now I have to wonder if grief gas is the true *ideal gas*.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:22:00.243000+00:00",
+        "content": "oO",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:22:07.678000+00:00",
+        "content": "\"gaseous\" grief isn't",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:22:11.626000+00:00",
+        "content": "It's not particulate",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:22:14.155000+00:00",
+        "content": "Ideal matter?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:22:16.842000+00:00",
+        "content": "It's more akin to an energy field",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:22:19.105000+00:00",
+        "content": "Well, we have to simulate it because Grief Gas doesn't do anything unless we tell it to",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:22:25.202000+00:00",
+        "content": "something something higgs boson",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:22:29.624000+00:00",
+        "content": "wait",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:22:32.900000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:23:09.936000+00:00",
+        "content": "@alpha Grief isn't made of anything. A wall of matter is a bunch of atoms held in place, and interacting largely by electromagnetism. A wall of grief simply *is*.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:23:10.669000+00:00",
+        "content": "It *could* be an ideal gas, it could also be pretty much any element it wants to. Pretty sure we have the fidelity for simulating atoms.",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:23:39.291000+00:00",
+        "content": "Ooooooooh.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:23:48.287000+00:00",
+        "content": "rambling\n\nstronger wish -> less range/more bad consequences/whatever\nmaybe your soul 'condenses' as much as needed in order to provide the wish to put it that way\nthe whole soul gets filled with grief\nthe less you used your potential, the less dense the soul. ~~that's why sayaka is so dense/dumb, she has little potential~~\nthe less potential used, the bigger the soul, the more it can fill with grief\nthe soul gem being a node into the actual soul, and showing how much it's tarnished overall",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:23:50.357000+00:00",
+        "content": "I like that line of thought AppleTank.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:24:26.677000+00:00",
+        "content": "It's already been brought up that we can create a *mechanical* chemical fabricator.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:24:30.507000+00:00",
+        "content": "nothing to do with hypercubes tho",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:24:34.820000+00:00",
+        "content": "yes.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:24:57.520000+00:00",
+        "content": "something about hyperdimensional geometry",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:25:04.322000+00:00",
+        "content": "/geometry",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:25:16.367000+00:00",
+        "content": "hrm. Maybe the witch core in a soul gem is non-euclidian or something",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:25:34.447000+00:00",
+        "content": "toasty",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:25:41.553000+00:00",
+        "content": "/geometric",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:25:42.064000+00:00",
+        "content": "",
+        "edited": null,
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266536771599204352/402981773925154816/mwee1.png",
+            "filename": "mwee1.png"
+          }
+        ],
+        "author": "\u0323",
+        "author_id": "189628169299427328",
+        "authorcolor": "#06393E"
+      },
+      {
+        "timestamp": "2018-01-17T00:25:45.183000+00:00",
+        "content": "lol",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:25:46.242000+00:00",
+        "content": "\ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:25:56.638000+00:00",
+        "content": "Ah yes, that one",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:26:19.319000+00:00",
+        "content": "Well, iirc space-time is hyperbolic",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:22.619000+00:00",
+        "content": "Firn added it yesterday.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:26:25.231000+00:00",
+        "content": "ah",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:27.765000+00:00",
+        "content": "non-euclidian just means the sides aren't of equal length.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:26:30.435000+00:00",
+        "content": "I vaguely like Omnur's THeory that Soul Gems are a passage way to 4D space or whatever, but I'm not sure what we can do with that",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:45.537000+00:00",
+        "content": "Hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:56.330000+00:00",
+        "content": "not really 'my' theory",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:56.470000+00:00",
+        "content": "All I know is that its a path to powers some deem unnatural",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:26:56.978000+00:00",
+        "content": "Is the last iota of grief in a clear seed a point particle?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:27:17.645000+00:00",
+        "content": "/badumtss",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:27:18.377000+00:00",
+        "content": "",
+        "edited": null,
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266536771599204352/402982177895088148/badumtss.gif",
+            "filename": "badumtss.gif"
+          }
+        ],
+        "author": "\u0323",
+        "author_id": "189628169299427328",
+        "authorcolor": "#06393E"
+      },
+      {
+        "timestamp": "2018-01-17T00:29:02.492000+00:00",
+        "content": "`I vaguely like Omnur's THeory that Soul Gems are a passage way to 4D space or whatever, but I'm not sure what we can do with that`\nWell, one imagines it would help in folding grief along a higher-dimensional axis. \ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:29:46.368000+00:00",
+        "content": "What, make Grief gems?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:30:02.301000+00:00",
+        "content": "... I have no idea what you mean there.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:30:43.411000+00:00",
+        "content": "Sayaka's thing, but condensing all our grief into a gem thing, that we then break open for combat and cool one-liners",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:31:13.115000+00:00",
+        "content": "random thought\nif the grief we see it's a 3d shadow of 4th dimensional grief\ncan we pull more grief out of our grief",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:31:20.244000+00:00",
+        "content": "we tried to create grief once and failed",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:31:23.723000+00:00",
+        "content": "/yodawg",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:31:40.233000+00:00",
+        "content": "bring more of that 4th d grief into this 3d space",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:31:49.749000+00:00",
+        "content": "Nah, we can make it *look* like there's more grief, but its fundamentally the same 4D amount of grief. You're jsut looking at it from a different angle",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:07.783000+00:00",
+        "content": "But yeah, that's the immediate usecase I was thinking Appletank",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:32:14.987000+00:00",
+        "content": "well, but more of it would be in 'our' space",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:22.450000+00:00",
+        "content": "...",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:32:26.203000+00:00",
+        "content": "Ooooooh.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:32:30.533000+00:00",
+        "content": "At least, that's what I learned from 3D simulations of 4D objects, that phase in and out of existence when you push them around",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:41.627000+00:00",
+        "content": "is the grief not inside our 3d part of space usable",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:46.425000+00:00",
+        "content": "when we do something with grief",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:50.610000+00:00",
+        "content": "does all the grief contribute",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:32:53.209000+00:00",
+        "content": "We could fit that griefputer that's been batted about into 4d space.",
+        "edited": "2018-01-17T00:32:59.220000+00:00",
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:32:55.170000+00:00",
+        "content": "or only the shadow we get to see",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:33:22.086000+00:00",
+        "content": "https://www.youtube.com/watch?v=0t4aKJuKP0Q",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:33:26.039000+00:00",
+        "content": "[screaming]",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:34:05.398000+00:00",
+        "content": "[Antichamber Intensifies]",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:34:28.140000+00:00",
+        "content": "... that'd be a fun exhibit to run for our friends, honestly.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:34:33.993000+00:00",
+        "content": "Antichamber I mean.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:34:49.653000+00:00",
+        "content": "Sabrina, did you make a barrier again?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:34:52.194000+00:00",
+        "content": "@Incubator \npossible experiment?\nsuppose grief is 4th dimensional, but that only the 3d shadow cast in the world we experience is useful to us\nattempt to move the 'rest' of the grief, the part not shadowing our senses, into the world we can see\nand see if we can use this 'extra' grief",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:35:50.641000+00:00",
+        "content": "also the science planner seems incomplete\n\ud83d\ude10 I'll see if I can add to it",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:37:49.213000+00:00",
+        "content": "the point of that 'experiment' would be that we would simply need to carry much less grief around\nthough i don't think it'll work \ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:38:17.628000+00:00",
+        "content": "Hmm. Maybe that's why our hammer hits \"harder\" than a grief hammer of similar size?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:38:28.851000+00:00",
+        "content": "/magic",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:38:29.260000+00:00",
+        "content": "",
+        "edited": null,
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266536771599204352/402984991635537921/magic.jpg",
+            "filename": "magic.jpg"
+          }
+        ],
+        "author": "\u0323",
+        "author_id": "189628169299427328",
+        "authorcolor": "#06393E"
+      },
+      {
+        "timestamp": "2018-01-17T00:38:31.765000+00:00",
+        "content": "There's a 4D hammer we can't see",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:38:36.370000+00:00",
+        "content": "Nah, I think the point here isn't that grief might *already* be 4 dimensional, but that it make be possible to *make it* 4th dimensional.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:41:07.330000+00:00",
+        "content": "https://www.youtube.com/watch?v=vZp0ETdD37E\n[more screaming]",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:41:25.974000+00:00",
+        "content": "I can't remember when we did the 'experiment' to create grief ex-nihilo",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:42:20.886000+00:00",
+        "content": "Possible vote addition?\n[X] Idly attempt to fold a grief sphere in the  4th dimension",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:42:30.325000+00:00",
+        "content": "is this the time",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:42:33.327000+00:00",
+        "content": ":V",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:43:26.890000+00:00",
+        "content": "can we will grief to become two dimensional",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:43:37.793000+00:00",
+        "content": "Probably. \ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:43:50.084000+00:00",
+        "content": "it wouldn't occupy space?",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:45:04.036000+00:00",
+        "content": "1-dimensional?",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:46:44.097000+00:00",
+        "content": ">1-dimenional grief\n>o hai Rochelle",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:46:57.591000+00:00",
+        "content": "witch core wooooo",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:52:53.717000+00:00",
+        "content": "It could be that",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:53:16.966000+00:00",
+        "content": "When we have \"immaterial\" grief we're collapsing into \"material\" grief, we're just moving it along the fourth axis.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:53:48.552000+00:00",
+        "content": "Hmm...",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:54:20.093000+00:00",
+        "content": "Soul gems and grief seeds are 4-d?",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:54:44.933000+00:00",
+        "content": "```[3:41 PM] Godwinson: Grief hyperspheres.\n[3:41 PM] Godwinson: Pack more grief into a given 3-space volume by shifting some of it to the side in higher dimensions\n[3:42 PM] Firnagzen: Keep going with that thought\n[3:44 PM] Firnagzen: Also, the shadow of a 4d object is 3d\n[3:45 PM] Firnagzen: You can principally get it down to 2d, analogous to balancing a cube on one vertex```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:54:57.468000+00:00",
+        "content": "Everything else was about how I was thinking about things in the wrong direction",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:55:53.344000+00:00",
+        "content": "If we bounce Soul Gems on top of each other, they fall into the fourth dimension?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:56:02.451000+00:00",
+        "content": "*bops apple*",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:56:15.520000+00:00",
+        "content": "Heh, amusingly, we largely copied the original conversation in structure at expanded length.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T00:56:17.385000+00:00",
+        "content": "We can only translate them in 3d",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:56:19.460000+00:00",
+        "content": "Yes.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:56:25.018000+00:00",
+        "content": "hmm",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:56:44.476000+00:00",
+        "content": "A lot of random flailing about over the exact same thought processes I went over and discarded, often without even typing them up",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:56:52.358000+00:00",
+        "content": "So, uh",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:56:57.178000+00:00",
+        "content": "_is Sabrina._",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:57:01.619000+00:00",
+        "content": "It is known. \ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:57:02.071000+00:00",
+        "content": "heh",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:57:45.913000+00:00",
+        "content": "and it's approximately the same time acceleration too",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:02.532000+00:00",
+        "content": "pffft",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:58:26.029000+00:00",
+        "content": "hmmm",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:58:27.277000+00:00",
+        "content": "~ 3-4 days per update * ~ 50 min ~= 1 hr 30",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:36.510000+00:00",
+        "content": "wait",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:38.072000+00:00",
+        "content": "I can't math",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:40.871000+00:00",
+        "content": ">.>",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:43.849000+00:00",
+        "content": "eh",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T00:58:48.171000+00:00",
+        "content": "Hey, @Atosen! How much do you know about higher dimensional geometries?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T00:58:50.590000+00:00",
+        "content": "it's within the same order of magnitude",
+        "edited": null,
+        "attachments": [],
+        "author": "alpha",
+        "author_id": "113104128783159296",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:01:10.049000+00:00",
+        "content": "It always amuses me just how little we know about our own power, and how tiny new things each open up an utterly gigantic space of possibilities.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T01:02:19.910000+00:00",
+        "content": "our (non solid) grief is invisible\nnormal people can see solid grief\nis it invisible magically, or because it naturally doesn't exist in our 3d space",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:02:39.674000+00:00",
+        "content": "why is it visible when we make it solid \ud83d\ude10",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:02:41.506000+00:00",
+        "content": "Our non-solid grief pings magical senses a lot more",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:03:14.844000+00:00",
+        "content": "and we can compress it beyond the limit with witch effect",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:04:02.787000+00:00",
+        "content": "```One of the first major expositors of the fourth dimension was Charles Howard Hinton, starting in 1880 with his essay What is the Fourth Dimension?; published in the Dublin University magazine.[3] He coined the terms tesseract, ana and kata in his book A New Era of Thought, and introduced a method for visualising the fourth dimension using cubes in the book Fourth Dimension.[4][5]```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:04:12.381000+00:00",
+        "content": "Thus established",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:04:16.096000+00:00",
+        "content": "\\*adds grief simulated atomics & 4th dimension grief to science planner*",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T01:04:21.665000+00:00",
+        "content": "Ana is the direction away from physical grief",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:04:29.457000+00:00",
+        "content": "Kata is the direction toward physical grief",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:04:51.638000+00:00",
+        "content": "When we physically manifest grief",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:05:01.144000+00:00",
+        "content": "We can't compress it without changing what substance it is",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:06:19.451000+00:00",
+        "content": "@Firnagzen When we create griefhax devices, or have grief become fire or the like, is the volume of the griefhax *thing* in question less than the volume of inert grief that went into it?",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:06:39.483000+00:00",
+        "content": "nope",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-17T01:07:27.630000+00:00",
+        "content": "mmmmmrrrg",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:07:30.473000+00:00",
+        "content": "Dammit",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:07:40.007000+00:00",
+        "content": "There's something there in that concept space *too*",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:07:42.301000+00:00",
+        "content": "fuck",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:07:57.127000+00:00",
+        "content": "I figured that gas grief is essentially invisible because its too small to bounce photons or something",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:08:05.711000+00:00",
+        "content": "It's not actually a gas though",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:08:15.792000+00:00",
+        "content": "It behaves entirely differently from grief fog",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:08:18.211000+00:00",
+        "content": "Well, whatever we call super tiny particle grief",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:08:24.363000+00:00",
+        "content": "'particle'",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:08:27.308000+00:00",
+        "content": "It's not a particle",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:08:42.838000+00:00",
+        "content": "me english no good",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:08:44.294000+00:00",
+        "content": "Grief fog acts like inert grief that's been made a gas",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:09:01.479000+00:00",
+        "content": "Oh! @Firnagzen While you're here, I've been writing up some brute-force thoughts about last update and I have a relevant question: \nHow does the amount of Suzuki Haru's magic we see in Sayaka's power gem compare to the completeness of a familiar?",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T01:09:13.347000+00:00",
+        "content": "If I've written that sensibly.",
+        "edited": null,
+        "attachments": [],
+        "author": "Yvonne",
+        "author_id": "304193780968325121",
+        "authorcolor": "#979C9F"
+      },
+      {
+        "timestamp": "2018-01-17T01:09:14.167000+00:00",
+        "content": "The invisible, raw grief that's very \"loud\" to magical girl senses isn't physical",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:09:57.026000+00:00",
+        "content": "witch grief is the grief that's furthest away in the 4thd axis...?",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:11:03.109000+00:00",
+        "content": "No, that's why I asked about griefhax",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:11:07.768000+00:00",
+        "content": "If it was smaller",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:11:37.250000+00:00",
+        "content": "Then it'd suggest that magical senses exist most strongly in some levels of 4-space, but weakest in 3-space",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:12:07.532000+00:00",
+        "content": "And that active griefhax involved moving some of the grief back anawards",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:12:13.867000+00:00",
+        "content": "But it's the same volume",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:12:18.030000+00:00",
+        "content": "So that's not what's happening",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:12:30.224000+00:00",
+        "content": "unless Firn is saying the 4D volume hasn't change because he's smug like that",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:12:35.875000+00:00",
+        "content": "...",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:12:40.675000+00:00",
+        "content": "I assumed so",
+        "edited": null,
+        "attachments": [],
+        "author": "onmarb",
+        "author_id": "265872080770301953",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:12:41.230000+00:00",
+        "content": "@Firnagzen",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:08.919000+00:00",
+        "content": "I meant 3-space volume.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:10.471000+00:00",
+        "content": ":C",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:12.258000+00:00",
+        "content": "<:brina:295719513981452300>",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:15.519000+00:00",
+        "content": "do we even have terms for 4D volume?",
+        "edited": "2018-01-17T01:13:20.871000+00:00",
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:13:25.187000+00:00",
+        "content": "Yes, it's 4D volume. \ud83d\ude1b",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:25.321000+00:00",
+        "content": "is m^4 a thing?",
+        "edited": null,
+        "attachments": [],
+        "author": "AppleTank",
+        "author_id": "85404600475086848",
+        "authorcolor": null
+      },
+      {
+        "timestamp": "2018-01-17T01:13:35.671000+00:00",
+        "content": "```In the familiar three-dimensional space in which we live there are three coordinate axes\u2014usually labeled x, y, and z\u2014with each axis orthogonal (i.e. perpendicular) to the other two. The six cardinal directions in this space can be called up, down, east, west, north, and south. Positions along these axes can be called altitude, longitude, and latitude. Lengths measured along these axes can be called height, width, and depth.\n\nComparatively, four-dimensional space has an extra coordinate axis, orthogonal to the other three, which is usually labeled w. To describe the two additional cardinal directions, Charles Howard Hinton coined the terms ana and kata, from the Greek words meaning \"up toward\" and \"down from\", respectively. A position along the w axis can be called spissitude, as coined by Henry More.```",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      },
+      {
+        "timestamp": "2018-01-17T01:13:38.926000+00:00",
+        "content": "@Yvonne on what basis? the comparisons aren't really comparable",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
+      },
+      {
+        "timestamp": "2018-01-17T01:14:03.755000+00:00",
+        "content": "@Sabrina the 3D volume doesn't change, no",
+        "edited": null,
+        "attachments": [],
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "authorcolor": "#95A5A6"
       }
     ]
   }
