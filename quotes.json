@@ -4,76 +4,76 @@
     "id": "326150168183570433",
     "lines": [
       {
+        "authorcolor": "#f1c40f",
         "timestamp": "2017-04-19T00:18:41.696000+00:00",
         "content": "pants are evil",
         "edited": null,
         "author": "Mami",
         "server": "Sabrina's Head",
-        "author_id": "222505900001198081",
-        "authorcolor": "#f1c40f"
+        "author_id": "222505900001198081"
       },
       {
+        "authorcolor": "#206694",
         "timestamp": "2017-04-19T00:19:10.844000+00:00",
         "content": "Yes, Mami is much better without any pants on",
         "edited": null,
         "author": "Sabrina",
         "server": "Sabrina's Head",
-        "author_id": "252581296436412416",
-        "authorcolor": "#206694"
+        "author_id": "252581296436412416"
       },
       {
+        "authorcolor": "#992D22",
         "timestamp": "2017-04-19T00:19:11.553000+00:00",
         "content": "But mami, what about Sabrina's pants",
         "edited": null,
         "author": "Firnagzen",
         "server": "Sabrina's Head",
-        "author_id": "178020704774520833",
-        "authorcolor": "#992D22"
+        "author_id": "178020704774520833"
       },
       {
+        "authorcolor": "#e91e63",
         "timestamp": "2017-04-19T00:19:12.755000+00:00",
         "content": "Mami loves Asunaro style? :p",
         "edited": null,
         "author": "pantherasapiens",
         "server": "Sabrina's Head",
-        "author_id": "266869055464407061",
-        "authorcolor": "#e91e63"
+        "author_id": "266869055464407061"
       },
       {
+        "authorcolor": "#206694",
         "timestamp": "2017-04-19T00:19:15.119000+00:00",
         "content": "erm",
         "edited": null,
         "author": "Sabrina",
         "server": "Sabrina's Head",
-        "author_id": "252581296436412416",
-        "authorcolor": "#206694"
+        "author_id": "252581296436412416"
       },
       {
+        "authorcolor": "#206694",
         "timestamp": "2017-04-19T00:19:17.811000+00:00",
         "content": "uh",
         "edited": null,
         "author": "Sabrina",
         "server": "Sabrina's Head",
-        "author_id": "252581296436412416",
-        "authorcolor": "#206694"
+        "author_id": "252581296436412416"
       },
       {
+        "authorcolor": "#992D22",
         "timestamp": "2017-04-19T00:19:18.529000+00:00",
         "content": "...",
         "edited": null,
         "author": "Firnagzen",
         "server": "Sabrina's Head",
-        "author_id": "178020704774520833",
-        "authorcolor": "#992D22"
+        "author_id": "178020704774520833"
       },
       {
+        "authorcolor": "#206694",
         "timestamp": "2017-04-19T00:19:19.912000+00:00",
         "content": "*phrasing*",
         "edited": null,
         "author": "Sabrina",
         "server": "Sabrina's Head",
-        "author_id": "252581296436412416",
-        "authorcolor": "#206694"
+        "author_id": "252581296436412416"
       },
       {
         "timestamp": "2017-04-19T00:19:20.173000+00:00",
@@ -84,49 +84,49 @@
         "author_id": "201067426954215426"
       },
       {
+        "authorcolor": "#06393e",
         "timestamp": "2017-04-19T00:19:20.437000+00:00",
         "content": "",
         "edited": null,
         "author": ".",
         "server": "Sabrina's Head",
-        "author_id": "189628169299427328",
-        "authorcolor": "#06393e"
+        "author_id": "189628169299427328"
       },
       {
+        "authorcolor": "#992D22",
         "timestamp": "2017-04-19T00:19:20.585000+00:00",
         "content": "Well then",
         "edited": null,
         "author": "Firnagzen",
         "server": "Sabrina's Head",
-        "author_id": "178020704774520833",
-        "authorcolor": "#992D22"
+        "author_id": "178020704774520833"
       },
       {
+        "authorcolor": "#f1c40f",
         "timestamp": "2017-04-19T00:19:32.230000+00:00",
         "content": "Sabrina's pants are also evil... I forbid the pants",
         "edited": null,
         "author": "Mami",
         "server": "Sabrina's Head",
-        "author_id": "222505900001198081",
-        "authorcolor": "#f1c40f"
+        "author_id": "222505900001198081"
       },
       {
+        "authorcolor": "#206694",
         "timestamp": "2017-04-19T00:19:33.186000+00:00",
         "content": "_flees the channel_",
         "edited": null,
         "author": "Sabrina",
         "server": "Sabrina's Head",
-        "author_id": "252581296436412416",
-        "authorcolor": "#206694"
+        "author_id": "252581296436412416"
       },
       {
+        "authorcolor": "#f1c40f",
         "timestamp": "2017-04-19T00:19:42.677000+00:00",
         "content": "_chases @Sabrina_",
         "edited": null,
         "author": "Mami",
         "server": "Sabrina's Head",
-        "author_id": "222505900001198081",
-        "authorcolor": "#f1c40f"
+        "author_id": "222505900001198081"
       }
     ]
   },
@@ -136,21 +136,18 @@
     "lines": [
       {
         "channel": "pmas",
+        "authorcolor": "#E67E22",
         "content": "but no seriously if Sasa was a furry she'd probably be way more relaxed.",
         "timestamp": "2017-03-24T00:02:49.235000+00:00",
         "edited": null,
         "author": "AuraTwilight",
         "server": "Sabrina's Head",
-        "author_id": "157027749314166784",
-        "authorcolor": "#E67E22"
+        "author_id": "157027749314166784"
       }
     ]
   },
   {
     "quoted": "2017-06-21T02:57:16.722565",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "326918464725975051",
     "lines": [
       {
         "timestamp": "2017-06-20T19:37:43.843000+00:00",
@@ -3832,13 +3829,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "326918464725975051",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-06-21T07:30:25.189540",
-    "channel": "bot-abuse",
-    "server": "Sabrina's Head",
-    "id": "326987202817163265",
     "lines": [
       {
         "timestamp": "2017-06-21T07:29:31.377000+00:00",
@@ -3848,13 +3845,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "326987202817163265",
+    "channel": "bot-abuse"
   },
   {
     "quoted": "2017-06-21T14:43:25.858217",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327096175247360021",
     "lines": [
       {
         "timestamp": "2017-06-21T07:26:42.983000+00:00",
@@ -3968,13 +3965,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327096175247360021",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-21T23:37:03.227134",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327230464903610378",
     "lines": [
       {
         "timestamp": "2017-06-21T23:31:33.848000+00:00",
@@ -4000,13 +3997,13 @@
         "author_id": "201067426954215426",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327230464903610378",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T01:27:25.876634",
-    "channel": "pmmm",
-    "server": "Sabrina's Head",
-    "id": "327258243648978944",
     "lines": [
       {
         "timestamp": "2017-06-22T00:42:32.555000+00:00",
@@ -4152,13 +4149,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327258243648978944",
+    "channel": "pmmm"
   },
   {
     "quoted": "2017-06-22T03:14:06.262142",
-    "channel": "pmmm",
-    "server": "Sabrina's Head",
-    "id": "327285088683294720",
     "lines": [
       {
         "timestamp": "2017-06-22T01:25:01.635000+00:00",
@@ -4168,13 +4165,13 @@
         "author_id": "201067426954215426",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327285088683294720",
+    "channel": "pmmm"
   },
   {
     "quoted": "2017-06-22T03:17:39.683142",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327285982477025285",
     "lines": [
       {
         "timestamp": "2017-06-21T06:33:01.875000+00:00",
@@ -4224,13 +4221,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327285982477025285",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T03:23:38.776844",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327287489746173953",
     "lines": [
       {
         "timestamp": "2017-06-17T01:27:25.829000+00:00",
@@ -4240,13 +4237,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327287489746173953",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T03:24:30.011304",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327287704817500160",
     "lines": [
       {
         "timestamp": "2017-06-17T01:46:15.793000+00:00",
@@ -4344,13 +4341,13 @@
         "author_id": "167825879144202241",
         "authorcolor": "#E74C3C"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327287704817500160",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T03:31:28.452522",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327289459869483014",
     "lines": [
       {
         "timestamp": "2017-05-23T02:24:03.968000+00:00",
@@ -4408,13 +4405,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327289459869483014",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T04:13:32.180631",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327300044141101056",
     "lines": [
       {
         "timestamp": "2017-05-16T11:01:28.580000+00:00",
@@ -5232,13 +5229,13 @@
         "author_id": "266498871977443328",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327300044141101056",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T13:51:25.467505",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327445475454353409",
     "lines": [
       {
         "timestamp": "2017-06-22T13:50:32.809000+00:00",
@@ -5256,13 +5253,13 @@
         "author_id": "229596970161930240",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327445475454353409",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-22T17:50:58.763788",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "327505760022167572",
     "lines": [
       {
         "timestamp": "2017-06-22T17:45:55.355000+00:00",
@@ -5272,13 +5269,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327505760022167572",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-06-22T18:09:28.431571",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "327510414092926976",
     "lines": [
       {
         "timestamp": "2017-06-22T18:05:19.569000+00:00",
@@ -5320,13 +5317,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327510414092926976",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-06-23T02:55:53.431159",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "327642892061638656",
     "lines": [
       {
         "timestamp": "2017-06-23T01:56:41.498000+00:00",
@@ -6296,13 +6293,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327642892061638656",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-06-23T02:58:32.024994",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "327643558045548545",
     "lines": [
       {
         "timestamp": "2017-06-23T02:55:58.570000+00:00",
@@ -6440,13 +6437,13 @@
         "author_id": "222505900001198081",
         "authorcolor": "#F1C40F"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "327643558045548545",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-24T03:40:33.281827",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "328016521068544020",
     "lines": [
       {
         "timestamp": "2017-06-24T00:29:50.114000+00:00",
@@ -7240,13 +7237,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "328016521068544020",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-06-24T18:26:31.238725",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "328239481427591169",
     "lines": [
       {
         "timestamp": "2017-06-24T17:17:57.471000+00:00",
@@ -7976,13 +7973,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "328239481427591169",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-25T05:35:28.898990",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "328407830329688065",
     "lines": [
       {
         "timestamp": "2017-06-25T02:09:33.601000+00:00",
@@ -9312,13 +9309,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "328407830329688065",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-25T07:43:46.343769",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "328440114734956558",
     "lines": [
       {
         "timestamp": "2017-06-25T07:41:57.465000+00:00",
@@ -9400,13 +9397,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "328440114734956558",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-25T07:51:14.762379",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "328441997029539872",
     "lines": [
       {
         "timestamp": "2017-06-25T07:49:52.826000+00:00",
@@ -9416,13 +9413,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "328441997029539872",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-28T02:07:11.356540",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "329442575146680322",
     "lines": [
       {
         "timestamp": "2017-06-28T02:06:48.641000+00:00",
@@ -9433,13 +9430,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "329442575146680322",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-28T02:08:03.294532",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "329442794030628864",
     "lines": [
       {
         "timestamp": "2017-06-27T22:45:17.920000+00:00",
@@ -9486,13 +9483,13 @@
         "author_id": "222505900001198081",
         "authorcolor": "#F1C40F"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "329442794030628864",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-28T02:08:09.659961",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "329442803685785610",
     "lines": [
       {
         "timestamp": "2017-06-28T01:21:15.351000+00:00",
@@ -9530,13 +9527,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "329442803685785610",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-28T04:12:35.330768",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "329474132830060548",
     "lines": [
       {
         "timestamp": "2017-06-28T04:11:16.837000+00:00",
@@ -9583,13 +9580,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "329474132830060548",
+    "channel": "general"
   },
   {
     "quoted": "2017-06-29T14:43:15.971470",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "329995237009391627",
     "lines": [
       {
         "timestamp": "2017-06-29T13:56:34.535000+00:00",
@@ -10509,13 +10506,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "329995237009391627",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-01T02:35:14.130298",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "330536797585145857",
     "lines": [
       {
         "timestamp": "2017-06-28T02:10:28.449000+00:00",
@@ -10526,13 +10523,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "330536797585145857",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-02T03:49:09.389024",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "330917788577169409",
     "lines": [
       {
         "timestamp": "2017-07-02T03:26:54.006000+00:00",
@@ -11425,13 +11422,13 @@
         "author_id": "265872080770301953",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "330917788577169409",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-04T07:29:17.569535",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "331697963569119232",
     "lines": [
       {
         "timestamp": "2017-07-04T07:05:54.857000+00:00",
@@ -12366,13 +12363,13 @@
         "author_id": "172878591456051200",
         "authorcolor": "#2ECC71"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "331697963569119232",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-05T03:38:23.519099",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "332002240980320257",
     "lines": [
       {
         "timestamp": "2017-07-05T03:38:03.465000+00:00",
@@ -12383,13 +12380,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "332002240980320257",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-05T03:39:47.790499",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "332002596422418442",
     "lines": [
       {
         "timestamp": "2017-07-05T02:30:42.852000+00:00",
@@ -13309,13 +13306,13 @@
         "author_id": "167825879144202241",
         "authorcolor": "#E74C3C"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "332002596422418442",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-05T18:32:15.454344",
-    "channel": "thearena",
-    "server": "Sabrina's Head",
-    "id": "332227191729422336",
     "lines": [
       {
         "timestamp": "2017-07-05T18:22:51.817000+00:00",
@@ -13929,13 +13926,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "332227191729422336",
+    "channel": "thearena"
   },
   {
     "quoted": "2017-07-09T09:13:44.332850",
-    "channel": "hugs",
-    "server": "Sabrina's Head",
-    "id": "333536187207909379",
     "lines": [
       {
         "timestamp": "2017-07-08T17:44:36.425000+00:00",
@@ -13946,13 +13943,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "333536187207909379",
+    "channel": "hugs"
   },
   {
     "quoted": "2017-07-09T15:32:26.925301",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "333631491646947338",
     "lines": [
       {
         "timestamp": "2017-07-09T15:05:42.891000+00:00",
@@ -14287,13 +14284,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "333631491646947338",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-12T01:10:16.492029",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "334501682971017226",
     "lines": [
       {
         "timestamp": "2017-07-12T00:57:22.876000+00:00",
@@ -14908,13 +14905,13 @@
         "author_id": "227240731515944960",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "334501682971017226",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-12T23:28:08.513480",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "334838367151718420",
     "lines": [
       {
         "timestamp": "2017-07-12T23:26:10.418000+00:00",
@@ -14997,13 +14994,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "334838367151718420",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-13T15:08:58.539617",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "335075137265074186",
     "lines": [
       {
         "timestamp": "2017-07-13T15:00:49.983000+00:00",
@@ -15032,13 +15029,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "335075137265074186",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-14T02:28:29.186431",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "335246141673308171",
     "lines": [
       {
         "timestamp": "2017-07-14T02:27:43.813000+00:00",
@@ -15049,13 +15046,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "335246141673308171",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-14T02:29:03.942706",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "335246286955610114",
     "lines": [
       {
         "timestamp": "2017-07-14T02:26:58.990000+00:00",
@@ -15102,13 +15099,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "335246286955610114",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-15T01:11:32.697362",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "335589166496874500",
     "lines": [
       {
         "timestamp": "2017-07-15T01:07:23.662000+00:00",
@@ -15299,13 +15296,13 @@
         "author_id": "261636485692915713",
         "authorcolor": "#1A7939"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "335589166496874500",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-15T12:15:06.160688",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "335756155026669568",
     "lines": [
       {
         "timestamp": "2017-07-15T01:42:45.424000+00:00",
@@ -15460,13 +15457,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "335756155026669568",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-07-18T01:26:51.169824",
-    "channel": "toboldlygo",
-    "server": "Sabrina's Head",
-    "id": "336680182112976898",
     "lines": [
       {
         "timestamp": "2017-07-17T19:35:25.785000+00:00",
@@ -15630,13 +15627,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "336680182112976898",
+    "channel": "toboldlygo"
   },
   {
     "quoted": "2017-07-18T01:30:55.814378",
-    "channel": "toboldlygo",
-    "server": "Sabrina's Head",
-    "id": "336681208459165696",
     "lines": [
       {
         "timestamp": "2017-07-18T01:25:45.615000+00:00",
@@ -15764,13 +15761,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "336681208459165696",
+    "channel": "toboldlygo"
   },
   {
     "quoted": "2017-07-29T02:42:57.263073",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "340685600850182146",
     "lines": [
       {
         "timestamp": "2017-07-29T02:41:20.851000+00:00",
@@ -15799,13 +15796,13 @@
         "author_id": "172878591456051200",
         "authorcolor": "#2ECC71"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "340685600850182146",
+    "channel": "general"
   },
   {
     "quoted": "2017-07-30T04:33:51.698196",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "341075899334000640",
     "lines": [
       {
         "timestamp": "2017-07-30T03:38:34.145000+00:00",
@@ -16618,13 +16615,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "341075899334000640",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-08-01T03:28:49.356839",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "341784306156437504",
     "lines": [
       {
         "timestamp": "2017-08-01T03:25:07.233000+00:00",
@@ -16743,13 +16740,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "341784306156437504",
+    "channel": "general"
   },
   {
     "quoted": "2017-08-01T03:50:44.933844",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "341789825495728128",
     "lines": [
       {
         "timestamp": "2017-08-01T03:46:18.141000+00:00",
@@ -17075,13 +17072,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "341789825495728128",
+    "channel": "general"
   },
   {
     "quoted": "2017-08-01T17:46:29.635809",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "342000145505714177",
     "lines": [
       {
         "timestamp": "2017-08-01T17:25:11.674000+00:00",
@@ -17092,13 +17089,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "342000145505714177",
+    "channel": "general"
   },
   {
     "quoted": "2017-08-01T22:55:04.979731",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "342077806005714955",
     "lines": [
       {
         "timestamp": "2017-08-01T22:24:12.802000+00:00",
@@ -17298,13 +17295,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "342077806005714955",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-08-09T20:47:18.188248",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "344944752095133696",
     "lines": [
       {
         "timestamp": "2017-05-12T15:49:46.139000+00:00",
@@ -18224,13 +18221,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "344944752095133696",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-08-22T23:28:49.562290",
-    "channel": "pmas-fanworks",
-    "server": "Sabrina's Head",
-    "id": "349696442170081282",
     "lines": [
       {
         "timestamp": "2017-08-22T23:26:51.542000+00:00",
@@ -18286,13 +18283,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#992D22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "349696442170081282",
+    "channel": "pmas-fanworks"
   },
   {
     "quoted": "2017-08-30T00:49:52.133312",
-    "channel": "pmmm",
-    "server": "Sabrina's Head",
-    "id": "352253553492099072",
     "lines": [
       {
         "timestamp": "2017-08-30T00:18:23.731000+00:00",
@@ -18394,13 +18391,13 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "352253553492099072",
+    "channel": "pmmm"
   },
   {
     "quoted": "2017-09-03T04:04:21.101062",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "353752047742484480",
     "lines": [
       {
         "timestamp": "2017-09-03T02:44:04.667000+00:00",
@@ -18888,13 +18885,13 @@
         "author_id": "178996040622538752",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "353752047742484480",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-09-09T12:09:03.771807",
-    "channel": "general",
-    "server": "Sabrina's Head",
-    "id": "356048356453384193",
     "lines": [
       {
         "timestamp": "2017-09-09T12:04:14.376000+00:00",
@@ -19049,13 +19046,13 @@
         "author_id": "205115196098871297",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "356048356453384193",
+    "channel": "general"
   },
   {
     "quoted": "2017-09-10T17:28:30.022739",
-    "channel": "pmas-fanworks",
-    "server": "Sabrina's Head",
-    "id": "356491131896201228",
     "lines": [
       {
         "timestamp": "2017-09-10T05:19:12.451000+00:00",
@@ -21082,13 +21079,13 @@
         "author_id": "178254095973351424",
         "authorcolor": "#3498DB"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "356491131896201228",
+    "channel": "pmas-fanworks"
   },
   {
     "quoted": "2017-09-13T16:53:19.698010",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "357569445440258070",
     "lines": [
       {
         "timestamp": "2017-09-13T12:13:23.758000+00:00",
@@ -22008,13 +22005,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "357569445440258070",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-09-14T03:29:14.539919",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "357729478719569920",
     "lines": [
       {
         "timestamp": "2017-09-14T03:02:25.816000+00:00",
@@ -22223,13 +22220,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "357729478719569920",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-10-06T20:38:33.757120",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "365961048731287552",
     "lines": [
       {
         "timestamp": "2017-10-06T20:27:57.066000+00:00",
@@ -22249,13 +22246,13 @@
         "author_id": "157027749314166784",
         "authorcolor": "#E67E22"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "365961048731287552",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-10-12T05:03:03.733021",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "367899949532184576",
     "lines": [
       {
         "timestamp": "2017-10-11T21:03:29.111000+00:00",
@@ -22626,13 +22623,13 @@
         "author_id": "248980478416125952",
         "authorcolor": "#9B59B6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "367899949532184576",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-10-30T00:39:24.497390",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "374356579782492161",
     "lines": [
       {
         "timestamp": "2017-10-30T00:01:03.412000+00:00",
@@ -23035,13 +23032,13 @@
         "author_id": "304193780968325121",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "374356579782492161",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-10-30T00:46:10.184340",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "374358282283778048",
     "lines": [
       {
         "timestamp": "2017-10-29T23:44:39.380000+00:00",
@@ -23638,13 +23635,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "374358282283778048",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-11-03T04:51:56.409438",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "375869684051869696",
     "lines": [
       {
         "timestamp": "2017-11-03T04:20:05.648000+00:00",
@@ -24276,13 +24273,13 @@
         "author_id": "189297440388677632",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "375869684051869696",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-11-04T11:41:38.210301",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "376335175442890753",
     "lines": [
       {
         "timestamp": "2017-11-03T04:20:05.648000+00:00",
@@ -24914,13 +24911,13 @@
         "author_id": "189297440388677632",
         "authorcolor": null
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "376335175442890753",
+    "channel": "pmas"
   },
   {
     "quoted": "2017-11-05T00:41:29.523369",
-    "channel": "pmas-fanworks",
-    "server": "Sabrina's Head",
-    "id": "376531432161673216",
     "lines": [
       {
         "timestamp": "2017-11-04T21:45:09.502000+00:00",
@@ -25377,10 +25374,16 @@
         "author_id": "252581296436412416",
         "authorcolor": "#206694"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "376531432161673216",
+    "channel": "pmas-fanworks"
   },
   {
     "channel": "pmas",
+    "quoted": "2017-11-05T01:12:10.509309",
+    "server": "Sabrina's Head",
+    "id": "376539152281370624",
     "lines": [
       {
         "timestamp": "2017-11-04T23:10:55.280000+00:00",
@@ -29732,13 +29735,13 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "376539152281370624",
-    "quoted": "2017-11-05T01:12:10.509309"
+    ]
   },
   {
     "channel": "bot-abuse",
+    "quoted": "2017-11-10T05:53:07.127778",
+    "server": "Sabrina's Head",
+    "id": "378421793863761922",
     "lines": [
       {
         "timestamp": "2017-11-10T05:48:01.036000+00:00",
@@ -29794,13 +29797,13 @@
         "author_id": "280102990461927425",
         "authorcolor": "#206694"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "378421793863761922",
-    "quoted": "2017-11-10T05:53:07.127778"
+    ]
   },
   {
     "channel": "pmas",
+    "quoted": "2017-11-11T23:21:30.541528",
+    "server": "Sabrina's Head",
+    "id": "379048017770053644",
     "lines": [
       {
         "timestamp": "2017-11-11T23:02:55.713000+00:00",
@@ -30435,13 +30438,13 @@
         "author_id": "178020704774520833",
         "authorcolor": "#95A5A6"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "379048017770053644",
-    "quoted": "2017-11-11T23:21:30.541528"
+    ]
   },
   {
     "channel": "general",
+    "quoted": "2017-12-20T04:19:56.019648",
+    "server": "Sabrina's Head",
+    "id": "392893858494808074",
     "lines": [
       {
         "timestamp": "2017-12-20T04:01:23.994000+00:00",
@@ -31258,13 +31261,13 @@
         "author_id": "189628169299427328",
         "authorcolor": "#06393E"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "392893858494808074",
-    "quoted": "2017-12-20T04:19:56.019648"
+    ]
   },
   {
     "quoted": "2018-01-13T23:15:17.979162",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "401876891247575041",
     "lines": [
       {
         "timestamp": "2018-01-13T22:33:47.972000+00:00",
@@ -31662,16 +31665,10 @@
         "author_id": "304193780968325121",
         "authorcolor": "#979C9F"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "401876891247575041",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2018-01-17T03:11:21.870083",
-    "channel": "pmas",
-    "server": "Sabrina's Head",
-    "id": "403023461137776640",
     "lines": [
       {
         "timestamp": "2018-01-16T23:31:33.099000+00:00",
@@ -34753,10 +34750,16 @@
         "author_id": "178020704774520833",
         "authorcolor": "#95A5A6"
       }
-    ]
+    ],
+    "server": "Sabrina's Head",
+    "id": "403023461137776640",
+    "channel": "pmas"
   },
   {
     "quoted": "2018-01-26T16:31:35.017480",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "406486334484774922",
     "lines": [
       {
         "timestamp": "2018-01-26T15:49:24.972000+00:00",
@@ -35200,16 +35203,10 @@
         "author_id": "206015016082735104",
         "authorcolor": "#E91E63"
       }
-    ],
-    "server": "Sabrina's Head",
-    "id": "406486334484774922",
-    "channel": "pmas"
+    ]
   },
   {
     "quoted": "2018-01-26T16:47:12.757020",
-    "channel": "pmas-fanworks",
-    "server": "Sabrina's Head",
-    "id": "406490267160674304",
     "lines": [
       {
         "timestamp": "2018-01-26T16:28:49.583000+00:00",
@@ -35529,6 +35526,26 @@
       {
         "timestamp": "2018-01-26T16:33:14.504000+00:00",
         "content": "I have no memory of this.",
+        "edited": null,
+        "attachments": [],
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "authorcolor": "#206694"
+      }
+    ],
+    "server": "Sabrina's Head",
+    "id": "406490267160674304",
+    "channel": "pmas-fanworks"
+  },
+  {
+    "quoted": "2018-02-08T04:14:06.607192",
+    "channel": "pmas",
+    "server": "Sabrina's Head",
+    "id": "411011786536648728",
+    "lines": [
+      {
+        "timestamp": "2018-02-08T04:12:10.430000+00:00",
+        "content": "Sabrina just heals herself of the conceptual injury of \"being insufficiently swole\"",
         "edited": null,
         "attachments": [],
         "author": "Sabrina",
